@@ -3,7 +3,7 @@
     "title": "Cyber Cafe 2007",
     "description": "₹20/hour. Winamp. Orkut. Yahoo Messenger. Counter-Strike 1.6. The Indian cyber cafe soundtrack.",
     "privacyStatus": "unlisted",
-    "youtubePlaylistId": ""
+    "youtubePlaylistId": "PLM_YFbBdhWt8"
   },
   "searchSuffix": "official audio song",
   "segments": [
@@ -11,175 +11,1139 @@
       "name": "Cyber Cafe Classics",
       "tracks": [
         {
-          "title": "Aankhon Mein Teri",
+          "title": "Ajab Si (Aankhon Mein Teri)",
           "artist": "KK",
           "film": "Om Shanti Om",
-          "id": ""
+          "id": "bdS6OoH1W2A",
+          "sourceUrl": "https://music.youtube.com/watch?v=bdS6OoH1W2A"
         },
         {
           "title": "Kya Mujhe Pyaar Hai",
           "artist": "KK",
           "film": "Woh Lamhe",
-          "id": ""
+          "id": "MQT9Vk9GZ2I",
+          "sourceUrl": "https://music.youtube.com/watch?v=MQT9Vk9GZ2I"
         },
         {
           "title": "Tu Hi Meri Shab Hai",
           "artist": "KK",
           "film": "Gangster",
-          "id": ""
+          "id": "55p9q1k2OCA",
+          "match": {
+            "title": "Tu Hi Meri Shab Hai | Full Song | Gangster | KK | Emraan Hashmi | High volume | High quality",
+            "channel": "Quality Volume",
+            "duration": "6:31",
+            "score": 153,
+            "url": "https://youtu.be/55p9q1k2OCA",
+            "alternatives": [
+              {
+                "id": "Ea4gcJ0Y_Yk",
+                "title": "1Tu Hi Meri Shab Hai | Gangster | Emraan Hashmi, Kangana Ranaut | KK | 4K Ultra HD Song",
+                "channel": "SKYWORLD",
+                "duration": "6:29",
+                "score": 139
+              },
+              {
+                "id": "TWnJvjkuFJA",
+                "title": "Lyrics - Tu Hi Meri Shab Hai - KK, Emraan Hashmi, Kangana Ranaut",
+                "channel": "TheLyricStudio",
+                "duration": "6:38",
+                "score": 136
+              },
+              {
+                "id": "mWBvudKcByg",
+                "title": "Tu Hi Meri Shab Hai - K.K | Gangster | Emraan Hashmi, Kangna Ranaut | Full 4K Video Song",
+                "channel": "Vishesh Films",
+                "duration": "6:42",
+                "score": 135
+              },
+              {
+                "id": "hya9O0ohulw",
+                "title": "Tu Hi Meri Shab Hai - K.K | Gangster | Emraan Hashmi, Kangna Ranaut | Full 4K Video Song",
+                "channel": "A-Series KTH",
+                "duration": "6:28",
+                "score": 135
+              }
+            ]
+          }
         },
         {
           "title": "Zara Sa",
           "artist": "KK",
           "film": "Jannat",
-          "id": ""
+          "id": "IN7E5WL29SE",
+          "match": {
+            "title": "Zara Sa Audio Song - Jannat | Emraan Hashmi, Sonal | KK | Pritam | Sayeed Quadri | Mahesh Bhatt",
+            "channel": "SonyMusicIndiaVEVO",
+            "duration": "5:06",
+            "score": 181,
+            "url": "https://youtu.be/IN7E5WL29SE",
+            "alternatives": [
+              {
+                "id": "-PDFj1Lm7r0",
+                "title": "Zara Sa - Power Ballad Best Audio Song - Jannat | Emraan Hashmi, Sonal Chauhan | Pritam | KK",
+                "channel": "SonyMusicIndiaVEVO",
+                "duration": "5:31",
+                "score": 181
+              },
+              {
+                "id": "ZsAOnmByy38",
+                "title": "Zara Sa | 4K Music Video | Jannat | Emraan Hashmi | Sonal Chauhan | KK | Pritam | Sayeed Quadri",
+                "channel": "Sony Music India",
+                "duration": "3:49",
+                "score": 181
+              },
+              {
+                "id": "5IY4BNj0-10",
+                "title": "Zara Sa - Full Video | Jannat | Emraan Hashmi, Sonal | KK | Pritam | Sayeed Quadri | Mahesh Bhatt",
+                "channel": "SonyMusicIndiaVEVO",
+                "duration": "3:44",
+                "score": 181
+              },
+              {
+                "id": "-8C_2BBVWk8",
+                "title": "KK | Zara Sa - Audio Lyrical | Emraan Hashmi | Sonal Chauhan | Pritam | Sayeed Quadri | Jannat",
+                "channel": "Sony Music India",
+                "duration": "5:08",
+                "score": 176
+              }
+            ]
+          }
         },
         {
           "title": "Beete Lamhein",
           "artist": "KK",
           "film": "The Train",
-          "id": ""
+          "id": "1qro_zIiQQk",
+          "match": {
+            "title": "Beete Lamhein Movie Version - KK - HD Audio",
+            "channel": "Chandu",
+            "duration": "4:31",
+            "score": 151,
+            "url": "https://youtu.be/1qro_zIiQQk",
+            "alternatives": [
+              {
+                "id": "4P4Oa0pbZNQ",
+                "title": "Beete Lamhein Lyrics | KK | The Train | Mithoon | Sayeed Qadri | Emraan Hashmi |",
+                "channel": "Superhit Music",
+                "duration": "6:04",
+                "score": 148
+              },
+              {
+                "id": "Cqz33z-WmE4",
+                "title": "lyrics ; Beete Lamhein Lyrics | KK | The Train | Mithoon | Sayeed Qadri | Emraan Hashmi",
+                "channel": "Mohit Lyrics",
+                "duration": "4:58",
+                "score": 148
+              },
+              {
+                "id": "MO7H073x3RY",
+                "title": "Beete Lamhein | MTv Unplugged | KK",
+                "channel": "Nikunj KKLover",
+                "duration": "6:25",
+                "score": 141
+              },
+              {
+                "id": "xrHz_qOhpjY",
+                "title": "KK - Beete Lamhein - (Lyrics)",
+                "channel": "Musicgenree",
+                "duration": "5:00",
+                "score": 136
+              }
+            ]
+          }
         },
         {
           "title": "Alvida",
           "artist": "KK",
           "film": "Life in a Metro",
-          "id": ""
+          "id": "hM9QDpLHhdw",
+          "match": {
+            "title": "Alvida - Life In A Metro | Pritam | KK | Amitabh Verma | Pseudo Video",
+            "channel": "SonyMusicIndiaVEVO",
+            "duration": "5:41",
+            "score": 181,
+            "url": "https://youtu.be/hM9QDpLHhdw",
+            "alternatives": [
+              {
+                "id": "cgZa220VNIA",
+                "title": "Pritam, KK - Alvida | Life in a Metro | Kangana, Shilpa Shetty, Irrfan Khan, Sharman J | James",
+                "channel": "SonyMusicIndiaVEVO",
+                "duration": "3:35",
+                "score": 181
+              },
+              {
+                "id": "dlBX5YKuanI",
+                "title": "Alvida Full Video - Life In A Metro | Kangana | Shilpa Shetty | Irrfan Khan | Pritam | KK",
+                "channel": "SonyMusicIndiaVEVO",
+                "duration": "7:23",
+                "score": 181
+              },
+              {
+                "id": "3VBo1eFuW_Q",
+                "title": "Alvida - Life in a Metro|Official Bollywood Lyrics|KK|Pritam",
+                "channel": "LyricGuruVEVO",
+                "duration": "5:42",
+                "score": 176
+              },
+              {
+                "id": "h8YDX_8slxA",
+                "title": "Alvida - Life in a Metro | @pritam7415 | James | Kangna, Shilpa Shetty, Irrfan Khan | KK | 4K",
+                "channel": "Sony Music India",
+                "duration": "7:24",
+                "score": 171
+              }
+            ]
+          }
         },
         {
           "title": "Woh Lamhe Woh Baatein",
           "artist": "Atif Aslam",
           "film": "Zeher",
-          "id": ""
+          "id": "mX0_1yejIQI",
+          "match": {
+            "title": "Woh Lamhe Woh Baatein - Lyrical Video | Emraan Hashmi | Atif Aslam | Shamita Shetty | Zeher",
+            "channel": "Sony Music India",
+            "duration": "5:19",
+            "score": 176,
+            "url": "https://youtu.be/mX0_1yejIQI",
+            "alternatives": [
+              {
+                "id": "FLKxnL7KwHw",
+                "title": "Emraan Hashmi - Woh Lamhe Woh Baatein (Lyric Video) Zeher | Atif Aslam",
+                "channel": "Vishesh Films",
+                "duration": "5:18",
+                "score": 163
+              },
+              {
+                "id": "KZqVgAvb4hQ",
+                "title": "Emraan Hashmi - Woh Lamhe Woh Baatein (Lyric Video) Zeher | Atif Aslam",
+                "channel": "cinematic_addy_",
+                "duration": "5:18",
+                "score": 163
+              },
+              {
+                "id": "1DBhic8SSKs",
+                "title": "Woh Lamhe Woh Baatein (Lyrics Video) Atif Aslam | Emraan Hashmi | Zeher (2005) | WorldFamousLyrics",
+                "channel": "WORLD FAMOUS LYRICS",
+                "duration": "5:32",
+                "score": 158
+              },
+              {
+                "id": "QSdRZf-eWcY",
+                "title": "Woh Lamhe Woh Baatein (Lyrics) - Atif Aslam | Zeher |",
+                "channel": "D-Muze India",
+                "duration": "5:21",
+                "score": 148
+              }
+            ]
+          }
         },
         {
           "title": "Tere Bin",
           "artist": "Atif Aslam",
           "film": "Bas Ek Pal",
-          "id": ""
+          "id": "yIrU21hoHys",
+          "match": {
+            "title": "Tere Bin Lyrical - Bas Ek Pal | Atif Aslam, Mithoon | Urmila, Juhi Chawla, Jimmy Shergill & Sanjay",
+            "channel": "Tips Official",
+            "duration": "5:06",
+            "score": 176,
+            "url": "https://youtu.be/yIrU21hoHys",
+            "alternatives": [
+              {
+                "id": "nNfoKoefIcw",
+                "title": "Atif Aslam - Tere Bin | Bas Ek Pal | Full Song Audio",
+                "channel": "Bollywood Audioverse",
+                "duration": "4:38",
+                "score": 163
+              },
+              {
+                "id": "aDp8DFpA_ew",
+                "title": "Atif Aslam | Tere BinTere Bin | Bas Ek Pal (2006) | Lyrcial Video | Juhi Chawla, Urmila Matondkar",
+                "channel": "King Of 90's",
+                "duration": "4:34",
+                "score": 163
+              },
+              {
+                "id": "I-zfNA0BBA0",
+                "title": "Atif Aslam | Tere BinTere Bin | Bas Ek Pal (2006) | Lyrcial Video | Juhi Chawla, Urmila Matondkar",
+                "channel": "Bollywood Mush",
+                "duration": "4:34",
+                "score": 163
+              },
+              {
+                "id": "GmbOGB91CYg",
+                "title": "Atif Aslam | Tere BinTere Bin | Bas Ek Pal (2006)",
+                "channel": "Gaane Filmi",
+                "duration": "3:37",
+                "score": 153
+              }
+            ]
+          }
         },
         {
           "title": "Pehli Nazar Mein",
           "artist": "Atif Aslam",
           "film": "Race",
-          "id": ""
+          "id": "JBCx0QyP8VQ",
+          "match": {
+            "title": "Pehli Nazar Mein Full Video - Race I Akshaye Khanna, Bipasha Basu | Atif Aslam | Pritam",
+            "channel": "Tips Official",
+            "duration": "3:37",
+            "score": 181,
+            "url": "https://youtu.be/JBCx0QyP8VQ",
+            "alternatives": [
+              {
+                "id": "1Kofvdo93Uc",
+                "title": "Pehli Nazar Mein [Lyrical Video] Atif Aslam | Saif A Khan, Bipasha B, Akshaye K, Katrina K | Tips",
+                "channel": "Tips Official",
+                "duration": "2:54",
+                "score": 164
+              },
+              {
+                "id": "ShJ8IZ0YK6g",
+                "title": "Pehli Nazar Mein - Race 2008 - Atif Aslam - Sameer - Pritam - DOLBY ATMOS MIX",
+                "channel": "REMASTERED AUDIO",
+                "duration": "5:14",
+                "score": 163
+              },
+              {
+                "id": "mvJH_REIt20",
+                "title": "Pehli Nazar Mein   Atif Aslam   Race 2018   Lyrical Video With Translation   YouTube",
+                "channel": "JACKSON BIG",
+                "duration": "5:12",
+                "score": 158
+              },
+              {
+                "id": "qdLYbA9Mu_M",
+                "title": "Pehli Nazar Mein Kaise Jaado Kar Diya | Atif Aslam Hits | Race I Akshaye, Bipasha & Saif Ali",
+                "channel": "Bollywood Jalwa",
+                "duration": "3:18",
+                "score": 153
+              }
+            ]
+          }
         },
         {
           "title": "Tum Se Hi",
           "artist": "Mohit Chauhan",
           "film": "Jab We Met",
-          "id": ""
+          "id": "kIuF3amkPgE",
+          "match": {
+            "title": "Tum Se Hi   Mohit Chauhan   Unplugged Version   Jab We Met   Mtv Unplugged   Lyrical Video     YouTu",
+            "channel": "HSA club",
+            "duration": "6:21",
+            "score": 158,
+            "url": "https://youtu.be/kIuF3amkPgE",
+            "alternatives": [
+              {
+                "id": "Cb6wuzOurPc",
+                "title": "Tum Se Hi Lyrcial | Jab We Met | Kareena Kapoor, Shahid Kapoor | Pritam | Mohit Chauhan",
+                "channel": "T-Series",
+                "duration": "5:39",
+                "score": 153
+              },
+              {
+                "id": "eLbDMz9q81g",
+                "title": "Tum Se Hi 8K Full Song | Jab We Met | Kareena Kapoor Khan, Shahid Kapoor | Mohit Chauhan | Pritam",
+                "channel": "T-Series",
+                "duration": "4:02",
+                "score": 153
+              },
+              {
+                "id": "Zp1XG5RwjoY",
+                "title": "Tum Se Hi - Jab We Met (2007)-  Mohit Chauhan - Pritam - HD Song",
+                "channel": "Leo Studio 27",
+                "duration": "5:24",
+                "score": 153
+              },
+              {
+                "id": "SWTopkdobl8",
+                "title": "Tum Se Hi (Lyrics) | Jab We Met | Mohit Chauhan | Pritam | Irshad Kamil",
+                "channel": "Lyric Zilla",
+                "duration": "5:24",
+                "score": 148
+              }
+            ]
+          }
         },
         {
           "title": "Masakali",
           "artist": "Mohit Chauhan",
           "film": "Delhi-6",
-          "id": ""
+          "id": "YGwE90xQ7NE",
+          "match": {
+            "title": "Masakali Original Full Song - Delhi 6 | A.R. Rahman, Mohit Chauhan | Masakali 2.0 | MP3 | Audio",
+            "channel": "Lyrics Tube",
+            "duration": "4:49",
+            "score": 158,
+            "url": "https://youtu.be/YGwE90xQ7NE",
+            "alternatives": [
+              {
+                "id": "xNgtrlUBN0k",
+                "title": "Masakali | Full Song | Delhi-6 | Mohit Chauhan",
+                "channel": "Need Of Humour Studios ; ",
+                "duration": "4:49",
+                "score": 153
+              },
+              {
+                "id": "k5bJu_geM7c",
+                "title": "Masakali Full Song - Mohit Chauhan - Delhi-6 - Sonam Kapoor - Abhishek Bachchan",
+                "channel": "Tenguly",
+                "duration": "4:56",
+                "score": 153
+              },
+              {
+                "id": "VbiVF3_XU6E",
+                "title": "Lyrical: Masakali | Delhi 6 | Abhishek Bachchan, Sonam Kapoor | A.R. Rahman |  Mohit Chauhan",
+                "channel": "T-Series",
+                "duration": "5:01",
+                "score": 148
+              },
+              {
+                "id": "ad4nSA6qV5M",
+                "title": "Masakali - Mohit Chauhan | A.R. Rehman | Delhi6 | New Song Of Mohit Chauhan | Best Of Mohit Chauhan",
+                "channel": "The Best Of Arijit Singh",
+                "duration": "4:41",
+                "score": 141
+              }
+            ]
+          }
         },
         {
           "title": "Tanha Dil",
           "artist": "Shaan",
           "film": "Tanha Dil",
-          "id": ""
+          "id": "64KSVbMDr0c",
+          "match": {
+            "title": "Shaan - Tanha Dil Tanha Safar (Music Video) | Popular Hindi Song",
+            "channel": "Universal Music India",
+            "duration": "4:01",
+            "score": 181,
+            "url": "https://youtu.be/64KSVbMDr0c",
+            "alternatives": [
+              {
+                "id": "0vKzz9RJNao",
+                "title": "Bhool Ja (Official Lyric Video) | Shaan | Tanha Dil...",
+                "channel": "Universal Music India",
+                "duration": "3:36",
+                "score": 181
+              },
+              {
+                "id": "3dBGxJQhdVc",
+                "title": "Bhool Ja (Music Video) Shaan | Tanha Dil | 2000s Super Hit Song",
+                "channel": "Universal Music India",
+                "duration": "3:30",
+                "score": 181
+              },
+              {
+                "id": "njuV0CmttYc",
+                "title": "Bhool Ja (Music Video) Shaan | Tanha Dil",
+                "channel": "Universal Music India",
+                "duration": "3:34",
+                "score": 181
+              },
+              {
+                "id": "BYOAQVrkV9c",
+                "title": "Shaan - Bhool Ja (Music Video) Singer Shaan | Tanha Dil",
+                "channel": "UMusicIndiaVEVO",
+                "duration": "3:35",
+                "score": 181
+              }
+            ]
+          }
         },
         {
           "title": "Woh Pehli Baar",
           "artist": "Shaan",
           "film": "Pyaar Mein Kabhi Kabhi",
-          "id": ""
+          "id": "KsFCVaDiegU",
+          "match": {
+            "title": "Woh Pehli Baar Full Video - Pyaar Mein Kabhi Kabhi | Dino, Sanjay | Shaan | Vishal Dadlani",
+            "channel": "SonyMusicIndiaVEVO",
+            "duration": "4:08",
+            "score": 181,
+            "url": "https://youtu.be/KsFCVaDiegU",
+            "alternatives": [
+              {
+                "id": "MvNj5U29kJA",
+                "title": "Woh Pehli Baar Audio Song - Pyaar Mein Kabhi Kabhi | Dino, Sanjay| Shaan | Vishal Dadlani",
+                "channel": "SonyMusicIndiaVEVO",
+                "duration": "4:34",
+                "score": 181
+              },
+              {
+                "id": "-wVvVXLUYFU",
+                "title": "Shaan - Woh Pehli Baar | Audio Lyrical | Pyaar Mein Kabhi Kabhi | Evergreen Romantic Song",
+                "channel": "Sony Music India",
+                "duration": "4:18",
+                "score": 176
+              },
+              {
+                "id": "OfPXv0_Wlrg",
+                "title": "Woh Pehli Baar - Pyaar Mein Kabhi Kabhi|Official Bollywood Lyrics|Shaan",
+                "channel": "LyricGuruVEVO",
+                "duration": "4:26",
+                "score": 176
+              },
+              {
+                "id": "xeNbkk0swac",
+                "title": "Woh Pehli Baar | Pyaar Mein Kabhi Kabhi | Shaan | Audio",
+                "channel": "Hindi “Hindimuzik07” muzik07",
+                "duration": "4:29",
+                "score": 163
+              }
+            ]
+          }
         },
         {
           "title": "Main Agar Kahoon",
           "artist": "Sonu Nigam Shreya Ghoshal",
           "film": "Om Shanti Om",
-          "id": ""
+          "id": "Kq3GX0BFGJg",
+          "match": {
+            "title": "Main Agar Kahoon (Lyrics)|Om Shanti Om|Sonu Nigam, Shreya Ghoshal|@tseries #songlyrics #viral",
+            "channel": "Sankalp",
+            "duration": "5:13",
+            "score": 166,
+            "url": "https://youtu.be/Kq3GX0BFGJg",
+            "alternatives": [
+              {
+                "id": "R6KvmB3XI-E",
+                "title": "Main Agar Kahoon Lyrics - Om Shanti Om | Sonu Nigam, Shreya Ghoshal • tumko paaya hu toh jaise",
+                "channel": "Vibe Bird",
+                "duration": "5:07",
+                "score": 148
+              },
+              {
+                "id": "Oo78HaeAG2s",
+                "title": "Main Agar Kahoon Full Hindi Song | Sonu Nigam, Shreya Ghoshal | Shahrukh Khan, Deepika Padukone",
+                "channel": "XEMORA Hindi",
+                "duration": "3:38",
+                "score": 141
+              },
+              {
+                "id": "cuaA6jkPBA8",
+                "title": "Main Agar Kahoon (Without Music Vocals Only) | Sonu Nigam, Shreya Ghoshal | Raymuse",
+                "channel": "Raymuse",
+                "duration": "3:16",
+                "score": 141
+              },
+              {
+                "id": "sAjDONNZp_0",
+                "title": "Main Agar Kahoon 8k Video: Shah Rukh Khan,Deepika Padukone |Sonu Nigam,Shreya Ghosal |Om Shanti Om",
+                "channel": "T-Series",
+                "duration": "3:53",
+                "score": 135
+              }
+            ]
+          }
         },
         {
           "title": "Kal Ho Naa Ho",
           "artist": "Sonu Nigam",
           "film": "Kal Ho Naa Ho",
-          "id": ""
+          "id": "oq5Ocx_rEv8",
+          "match": {
+            "title": "Kal Ho Naa Ho - Official Audio Song | Sonu Nigam | Shankar Ehsaan Loy | Javed Akhtar",
+            "channel": "SonyMusicIndiaVEVO",
+            "duration": "5:23",
+            "score": 181,
+            "url": "https://youtu.be/oq5Ocx_rEv8",
+            "alternatives": [
+              {
+                "id": "g0eO74UmRBs",
+                "title": "Kal Ho Naa Ho (Title Track) - Full Video | Shah Rukh Khan, Saif Ali Khan, Preity Zinta | Sonu Nigam",
+                "channel": "Sony Music India",
+                "duration": "4:48",
+                "score": 181
+              },
+              {
+                "id": "KpFF_NtXyIg",
+                "title": "Kal Ho Naa Ho-Sad Best Audio Song - Shah Rukh Khan|Sonu Nigam|Karan Johar|Javed Akhtar",
+                "channel": "SonyMusicIndiaVEVO",
+                "duration": "5:37",
+                "score": 181
+              },
+              {
+                "id": "H_e90zbRzpg",
+                "title": "Kal Ho Naa Ho Lyric Video - Title Track|Shah Rukh Khan,Saif Ali,Preity|Sonu Nigam|Karan J",
+                "channel": "SonyMusicIndiaVEVO",
+                "duration": "4:50",
+                "score": 181
+              },
+              {
+                "id": "V93jaqUIVrM",
+                "title": "Kal Ho Naa Ho - 💔Official Audio Song | Sonu Nigam | Shankar Ehsaan Loy | Javed Akhtar",
+                "channel": "Riyanshi music",
+                "duration": "5:42",
+                "score": 163
+              }
+            ]
+          }
         },
         {
           "title": "Kahin To",
           "artist": "Rashid Ali Vasundhara Das",
           "film": "Jaane Tu Ya Jaane Na",
           "searchHint": "A R Rahman",
-          "id": ""
+          "id": "nbgB6htXQS8",
+          "match": {
+            "title": "Kahin To Hogi | Jaane Tu Ya Jaane Na | Rashid Ali, Vasundhara Das | A.R. Rahman",
+            "channel": "ichinmaylive",
+            "duration": "5:06",
+            "score": 153,
+            "url": "https://youtu.be/nbgB6htXQS8",
+            "alternatives": [
+              {
+                "id": "M0UVuqSh_14",
+                "title": "Kahin To(Rashid Ali, Vasundhara Das) #MP3",
+                "channel": "Sunny Singh",
+                "duration": "5:06",
+                "score": 141
+              },
+              {
+                "id": "BU2rWUraVIM",
+                "title": "Kahin To by AR Rahman (Jaane Tu Ya Jaane Na Hindi Movie Song) UHQ 24BIT FLAC AUDIO",
+                "channel": "Ali Ahmad flac",
+                "duration": "5:04",
+                "score": 135
+              },
+              {
+                "id": "7zfEXYjgQjQ",
+                "title": "Kahin To Hogi Wo  - Jaane Tu Ya Jaane Na - Full Video",
+                "channel": "Sage Artist",
+                "duration": "5:17",
+                "score": 135
+              },
+              {
+                "id": "dL4gkjY1PUI",
+                "title": "Kahin To Hogi Woh|A.R.Rahman|Rashid Ali|Vasundhara Das|T-Series|Genelia D'souza|Imran Khan",
+                "channel": "Vishal Saxena",
+                "duration": "1:48",
+                "score": 133
+              }
+            ]
+          }
         },
         {
           "title": "Tu Bin Bataye",
           "artist": "Madhushree Naresh Iyer",
           "film": "Rang De Basanti",
           "searchHint": "A R Rahman",
-          "id": ""
+          "id": "ZL145CrnJkU",
+          "match": {
+            "title": "Tu Bin Bataye - Rang De Basanti|Official Bollywood Lyrics|Madhushree|Naresh Iyer",
+            "channel": "LyricGuruVEVO",
+            "duration": "6:01",
+            "score": 176,
+            "url": "https://youtu.be/ZL145CrnJkU",
+            "alternatives": [
+              {
+                "id": "jI7FFN4wW5E",
+                "title": "Tu Bin Bataye - Lyrical Song | Aamir Khan, Soha Ali Khan | Rang De Basanti | Madhushree, Naresh Iyer",
+                "channel": "Sony Music India",
+                "duration": "6:04",
+                "score": 166
+              },
+              {
+                "id": "xhdMDR0PBlU",
+                "title": "A.R. Rahman - Tu Bin Bataye Best Audio Song|Rang De Basanti|Aamir Khan|R. Madhavan|Naresh",
+                "channel": "SonyMusicIndiaVEVO",
+                "duration": "6:00",
+                "score": 153
+              },
+              {
+                "id": "UqblLzBwlns",
+                "title": "Tu Bin Bataye - Rang De Basanti | R. Madhavan | Soha Ali Khan",
+                "channel": "SonyMusicIndiaVEVO",
+                "duration": "3:56",
+                "score": 153
+              },
+              {
+                "id": "2QG5Zoic3O8",
+                "title": "Tu Bin Bataye //  Rang De Basanti // AR Rahman // Madhushree & Naresh Iyer // Prasoon Joshi",
+                "channel": "K BAAS",
+                "duration": "3:27",
+                "score": 153
+              }
+            ]
+          }
         },
         {
           "title": "Roobaroo",
           "artist": "A R Rahman Naresh Iyer",
           "film": "Rang De Basanti",
-          "id": ""
+          "id": "BrfRB6aTZlM",
+          "match": {
+            "title": "A.R. Rahman - Roobaroo - Audio | Rang De Basanti | Aamir Khan | A. R. Rahman | Naresh Iyer",
+            "channel": "SonyMusicIndiaVEVO",
+            "duration": "4:45",
+            "score": 181,
+            "url": "https://youtu.be/BrfRB6aTZlM",
+            "alternatives": [
+              {
+                "id": "OF688uk3Il0",
+                "title": "Roobaroo - Lyrical Video | Rang De Basanti | Aamir Khan | A.R. Rahman | Naresh Iyer",
+                "channel": "Sony Music India",
+                "duration": "4:41",
+                "score": 176
+              },
+              {
+                "id": "_emP6VB_Ba0",
+                "title": "Roobaroo - Rang De Basanti|Official Bollywood Lyrics|A.R. Rahman|Naresh Iyer",
+                "channel": "LyricGuruVEVO",
+                "duration": "4:45",
+                "score": 176
+              },
+              {
+                "id": "8kMv5ssr6Dw",
+                "title": "A.R. Rahman - Roobaroo Best Video|Rang De Basanti|Aamir Khan|Siddharth|Sharman|Naresh",
+                "channel": "SonyMusicIndiaVEVO",
+                "duration": "2:30",
+                "score": 153
+              },
+              {
+                "id": "_tUVQAOpKgk",
+                "title": "Roobaroo - A.R. Rahman, Naresh Iyer (Lyrics) | 7clouds Hindi",
+                "channel": "7clouds Hindi",
+                "duration": "4:46",
+                "score": 136
+              }
+            ]
+          }
         },
         {
           "title": "Jashn-E-Bahaaraa",
           "artist": "Javed Ali",
           "film": "Jodhaa Akbar",
           "searchHint": "A R Rahman",
-          "id": ""
+          "id": "4h1WFyOQv0Y",
+          "match": {
+            "title": "Jashn-E-Bahaaraa - Jodhaa Akbar | A. R. Rahman | Hrithik Roshan | Aishwarya Rai | Javed Ali",
+            "channel": "SonyMusicIndiaVEVO",
+            "duration": "2:08",
+            "score": 173,
+            "url": "https://youtu.be/4h1WFyOQv0Y",
+            "alternatives": [
+              {
+                "id": "c2PA0WMuZLM",
+                "title": "Jashn-E-Bahaaraa Lyric Video - Jodhaa Akbar | A. R. Rahman | Hrithik Roshan, Aishwarya Rai|Javed Ali",
+                "channel": "Sony Music India",
+                "duration": "2:09",
+                "score": 173
+              },
+              {
+                "id": "YYq0zm67bH8",
+                "title": "Javed Ali | Jashn-E-Bahaaraa (Audio Lyrical) | A. R. Rahman | Hrithik Roshan, Aishwarya Rai",
+                "channel": "Sony Music India",
+                "duration": "5:20",
+                "score": 164
+              },
+              {
+                "id": "CezkrlxFYsw",
+                "title": "A.R. Rahman, Javed Ali - Jashn-E-Bahaaraa (Lyrics)",
+                "channel": "seventyskye",
+                "duration": "5:14",
+                "score": 136
+              },
+              {
+                "id": "7hWMTFhpT0A",
+                "title": "Jashn-E-Bahaaraa - Javed Ali, AR Rahman [WORMONO Lofi Remake] | Jodhaa Akbar | Bollywood Lofi 🥀😘🥰😘",
+                "channel": "@dhiraj send84",
+                "duration": "3:54",
+                "score": 118
+              }
+            ]
+          }
         },
         {
           "title": "Maula Mere Maula",
           "artist": "Roop Kumar Rathod",
           "film": "Anwar",
-          "id": ""
+          "id": "AwjEzV2G1PA",
+          "match": {
+            "title": "Maula Mere Maula | Anwar | Roop Kumar Rathod | Mithoon | Sayeed Quadri | Love Songs",
+            "channel": "Saregama Music",
+            "duration": "6:11",
+            "score": 171,
+            "url": "https://youtu.be/AwjEzV2G1PA",
+            "alternatives": [
+              {
+                "id": "ptdVuijIQQE",
+                "title": "Maula Mere Maula | Lyrical | Anwar | Roop Kumar Rathod | Mithoon",
+                "channel": "Saregama Music",
+                "duration": "6:16",
+                "score": 166
+              },
+              {
+                "id": "fxfezWYW39M",
+                "title": "Maula Mere Maula Lyrical | मौला मेरे मौला गाने के बोल | Anwar | Siddharth Koirala |Roop Kumar Rathod",
+                "channel": "Saregama Music",
+                "duration": "6:24",
+                "score": 166
+              },
+              {
+                "id": "ZVycL3h1fFw",
+                "title": "Maula Mere Maula - Roop Kumar Rathod | Anwar | Mithoon | Best Hindi Song",
+                "channel": "Madhur Sangeet",
+                "duration": "7:25",
+                "score": 153
+              },
+              {
+                "id": "9VvWddZVW48",
+                "title": "MAULA MERE MAULA MERE | ROOP KUMAR RATHOD | MITHOON | RAHEEM ATHAVANAD | ANWAR | LIVE IN ABU DHABI",
+                "channel": "Rami Productions",
+                "duration": "9:04",
+                "score": 145
+              }
+            ]
+          }
         },
         {
           "title": "Ya Ali",
           "artist": "Zubeen Garg",
           "film": "Gangster",
-          "id": ""
+          "id": "myvmueZ3NcI",
+          "match": {
+            "title": "Ya Ali - Lyrical Video | Emraan Hashmi | Kangana | Zubeen Garg | Pritam | Sayeed Quadri | Gangster",
+            "channel": "Sony Music India",
+            "duration": "4:55",
+            "score": 176,
+            "url": "https://youtu.be/myvmueZ3NcI",
+            "alternatives": [
+              {
+                "id": "pmHnlBqjpm0",
+                "title": "Ya Ali (Official Video) Gangster | Emraan Hashmi | Kangana Ranaut | Zubeen Garg | 4K Video Song",
+                "channel": "Vishesh Films",
+                "duration": "4:09",
+                "score": 163
+              },
+              {
+                "id": "l5D2RNz1uDM",
+                "title": "Ya Ali (Video) Gangster | Emraan Hashmi | Kangana Ranaut | Zubeen Garg | 4K Video Song",
+                "channel": "Vishesh Films",
+                "duration": "3:02",
+                "score": 163
+              },
+              {
+                "id": "6lXAEVE7vrI",
+                "title": "Ya Ali_Zubeen Garg_Gangster_Full Audio Song.",
+                "channel": "ZG ZUBEEN SONGS",
+                "duration": "4:49",
+                "score": 163
+              },
+              {
+                "id": "7U-KuavxNyY",
+                "title": "Ya Ali | Audio Song | Zubeen Garg | Emraan Hashmi | Kangna Ranaut Gangster",
+                "channel": "BW Hits Music",
+                "duration": "5:01",
+                "score": 163
+              }
+            ]
+          }
         },
         {
           "title": "Toh Phir Aao",
           "artist": "Mustafa Zahid",
           "film": "Awarapan",
-          "id": ""
+          "id": "n_VrRuNkbrE",
+          "match": {
+            "title": "Toh Phir Aao - 8K/4K Music Video | Awarapan | Emraan Hashmi Song | Mustafa Zahid | Pritam",
+            "channel": "Sony Music India",
+            "duration": "5:50",
+            "score": 181,
+            "url": "https://youtu.be/n_VrRuNkbrE",
+            "alternatives": [
+              {
+                "id": "jo8SVgJ1BnU",
+                "title": "A Classic From The Past, Still Timeless | Toh Phir Aao | Mustafa Zahid | Awarapan | Emraan Hashmi",
+                "channel": "Mustafa Zahid",
+                "duration": "5:50",
+                "score": 153
+              },
+              {
+                "id": "-8pNg6pLTYE",
+                "title": "Toh Phir Aao 2023 | Mustafa Zahid | Journey of Awarapan",
+                "channel": "Mustafa Zahid",
+                "duration": "2:30",
+                "score": 153
+              },
+              {
+                "id": "rkV7--wYUJ8",
+                "title": "Toh Phir Aao - New Version | Lyric Video | Awarapan 2 | Emraan | Mithoon, Mustafa, Sayeed, Subodhh",
+                "channel": "Sony Music India and Vishesh Films",
+                "duration": "4:50",
+                "score": 153
+              },
+              {
+                "id": "KiWXuQX7Fdc",
+                "title": "Mustafa Zahid - Toh Phir Aao 2.0 (Dobara) | Awarapan 2 | Emraan Hashmi, Disha Patani | Subodh Sharma",
+                "channel": "DJ MRA",
+                "duration": "4:50",
+                "score": 153
+              }
+            ]
+          }
         },
         {
           "title": "Aashiq Banaya Aapne",
           "artist": "Himesh Reshammiya Shreya Ghoshal",
           "film": "Aashiq Banaya Aapne",
-          "id": ""
+          "id": "XxBnAA7QJL8",
+          "match": {
+            "title": "3D Audio Aashiq Banaya Aapne Himesh Reshammiya, Shreya Ghoshal Song | Emraan Hashmi, Tanushree D",
+            "channel": "Music3D 7.1",
+            "duration": "5:00",
+            "score": 163,
+            "url": "https://youtu.be/XxBnAA7QJL8",
+            "alternatives": [
+              {
+                "id": "zSDr925ZLh0",
+                "title": "Aashiq Banaya Aapne - (Full Song) | Audio Song | Himesh Reshammiya,  Shreya Ghoshal | Motion Series",
+                "channel": "Motion Series",
+                "duration": "5:53",
+                "score": 163
+              },
+              {
+                "id": "UCAVuqJDZqE",
+                "title": "Aashiq Banaya Aapne 8K Full Song | Himesh Reshammiya,Shreya Ghoshal | Emraan Hashmi, Tanushree",
+                "channel": "T-Series",
+                "duration": "4:52",
+                "score": 153
+              },
+              {
+                "id": "Bmz4lKmBtEI",
+                "title": "Aashiq Banaya Aapne Full Audio | Hate Story IV |  Urvashi Rautela | Himesh Reshammiya Neha Kakkar",
+                "channel": "T-Series",
+                "duration": "3:43",
+                "score": 135
+              },
+              {
+                "id": "d3uxF7yyXT8",
+                "title": "Aashiq Banaya Aapne(Official Audio)| Aashiq Banaya Aapne | Emran Hashmi | Himesh Reshammiya | Sameer",
+                "channel": "The Audio Lab ",
+                "duration": "6:04",
+                "score": 135
+              }
+            ]
+          }
         },
         {
           "title": "Jhalak Dikhlaja",
           "artist": "Himesh Reshammiya",
           "film": "Aksar",
-          "id": ""
+          "id": "MD-fzOo0ieI",
+          "match": {
+            "title": "Jhalak Dikhlaja Ek Baar Aaja | Himesh Reshammiya | Aksar | Emraan Hashmi | 4K Video",
+            "channel": "Bollywood Golden Hit's",
+            "duration": "5:01",
+            "score": 163,
+            "url": "https://youtu.be/MD-fzOo0ieI",
+            "alternatives": [
+              {
+                "id": "b2rQH-JK7J0",
+                "title": "Jhalak Dikhlaja (Official Audio) | Aksar | Emran Hashmi | Himesh Reshammiya | Sameer",
+                "channel": "The Audio Lab ",
+                "duration": "5:18",
+                "score": 163
+              },
+              {
+                "id": "shO9kcIvpio",
+                "title": "Jhalak Dikhlaja",
+                "channel": "Himesh Reshammiya Melodies",
+                "duration": "5:17",
+                "score": 141
+              },
+              {
+                "id": "xtUQkFr0gjU",
+                "title": "Aksar: Jhalak Dikhla Ja (Remix) (Full Audio) | Emran Hashmi | Himesh Reshammiya | Udita Goshwami",
+                "channel": "T-Series",
+                "duration": "5:11",
+                "score": 93
+              },
+              {
+                "id": "O8M-oCQV4lM",
+                "title": "Jhalak Dikhla Ja Ek Baar Aaja | 4k Video Song | Aksar | Emraan Hashmi | Himesh Reshammiya",
+                "channel": "DevyanI",
+                "duration": "5:58",
+                "score": 93
+              }
+            ]
+          }
         },
         {
           "title": "Tera Suroor",
           "artist": "Himesh Reshammiya",
           "film": "Aap Kaa Surroor",
-          "id": ""
+          "id": "idNyQkZU2VA",
+          "match": {
+            "title": "Tera Suroor,  Aap Ka Suroor, Himesh Reshammiya full video song",
+            "channel": "Music Beats",
+            "duration": "4:12",
+            "score": 151,
+            "url": "https://youtu.be/idNyQkZU2VA",
+            "alternatives": [
+              {
+                "id": "LKVwMTZ6GDE",
+                "title": "Himesh Reshammiya - Tera Suroor",
+                "channel": "nissanpulsar1",
+                "duration": "6:00",
+                "score": 141
+              },
+              {
+                "id": "1xsbMfIa97k",
+                "title": "Naam Hai Tera Video Song | Aap Kaa Suroor | Himesh Reshammiya | Sameer | T-Series",
+                "channel": "T-Series",
+                "duration": "4:33",
+                "score": 116
+              },
+              {
+                "id": "7nEw1HxLWqM",
+                "title": "Naam Hai Tera Lyrical Video | Aap Kaa Suroor | Himesh Reshammiya | Sameer | T-Series",
+                "channel": "T-Series",
+                "duration": "5:03",
+                "score": 111
+              },
+              {
+                "id": "PGpLVUbh3QI",
+                "title": "Naam Hai Tera (Full Audio Song) By Himesh Reshammiya | Aap Kaa Surroor (2006) Moj Viral Song ",
+                "channel": "Moj Viral Song ",
+                "duration": "4:53",
+                "score": 93
+              }
+            ]
+          }
         },
         {
           "title": "Bheegey Hont Tere",
           "artist": "Kunal Ganjawala",
           "film": "Murder",
-          "id": ""
+          "id": "q4XAWQMr9VY",
+          "match": {
+            "title": "Bheegey Hont Tere (Love Progressive) |Mons X Dj Amit |Kunal Ganjawala |Murder | Amix Visuals",
+            "channel": "Amix Visuals / Amit Kumar",
+            "duration": "3:46",
+            "score": 153,
+            "url": "https://youtu.be/q4XAWQMr9VY",
+            "alternatives": [
+              {
+                "id": "VcNQcMEbXf0",
+                "title": "Kunal Ganjawala - Bheegey Hont Tere ( Lyrics)",
+                "channel": "Music Holic",
+                "duration": "4:08",
+                "score": 136
+              },
+              {
+                "id": "zu4HQUoGLm8",
+                "title": "Anu Malik, Kunal Ganjawala - Bheegey Hont (From \"Murder\")",
+                "channel": "TumMiloTohSahiVEVO",
+                "duration": "4:49",
+                "score": 122.7
+              },
+              {
+                "id": "i_47Soc3F9c",
+                "title": "Bheege Hont Tere | Imran Hashmi | Mallika Sherawat | Ashmit Patel | Kunal Ganjawala | Murder | Hit ❤",
+                "channel": "Love Romance",
+                "duration": "5:30",
+                "score": 94.7
+              },
+              {
+                "id": "K4KlwAUqN2s",
+                "title": "Bheegey Hont (𝙎𝙡𝙤𝙬𝙚𝙙 + 𝙍𝙚𝙫𝙚𝙧𝙗) - Kunal Ganjawala, Emraan Hashmi, Mallika Sherawat Murder",
+                "channel": "Yashashree",
+                "duration": "4:51",
+                "score": 94.7
+              }
+            ]
+          }
         },
         {
           "title": "Teri Deewani",
           "artist": "Kailash Kher",
           "film": "Kailasa",
-          "id": ""
+          "id": "_HeRhROSy0g",
+          "match": {
+            "title": "Kailash Kher | Teri Deewani - Full Audio Song | Paresh Kamath | Naresh Kamath | Kailasa",
+            "channel": "Sony Music India",
+            "duration": "5:28",
+            "score": 181,
+            "url": "https://youtu.be/_HeRhROSy0g",
+            "alternatives": [
+              {
+                "id": "zZasH6qkn8M",
+                "title": "Teri Deewani - Kailash Kher | Official Video | Kailasa | Paresh | Naresh",
+                "channel": "Sony Music India",
+                "duration": "5:21",
+                "score": 181
+              },
+              {
+                "id": "ldDv90850iw",
+                "title": "Teri Deewani Official Lyric Video | Kailash Kher | Paresh | Naresh",
+                "channel": "Sony Music India",
+                "duration": "5:24",
+                "score": 169
+              },
+              {
+                "id": "rvFn7EISeJA",
+                "title": "Teri Deewani Official Lyric Video | Kailash Kher | Paresh | Naresh",
+                "channel": "Sony Music India",
+                "duration": "5:20",
+                "score": 169
+              },
+              {
+                "id": "HJf8ZQPIeeg",
+                "title": "Teri Deewani (Audio) | Kailash Kher | Kailasa | Soulful Romantic Hindi Song | Evergreen Love",
+                "channel": "Bollywood Audioverse",
+                "duration": "5:25",
+                "score": 163
+              }
+            ]
+          }
         },
         {
           "title": "Saiyyan",
           "artist": "Kailash Kher",
           "film": "Kailasa Jhoomo Re",
-          "id": ""
+          "id": "z2kkqQ2DTOs",
+          "match": {
+            "title": "Saiyyan (Lyric Video) - Kailash Kher | Paresh Kamath| Naresh Kamath | Kailasa Jhoomo Re",
+            "channel": "Sony Music India",
+            "duration": "5:45",
+            "score": 181,
+            "url": "https://youtu.be/z2kkqQ2DTOs",
+            "alternatives": [
+              {
+                "id": "NDArOjOKMBQ",
+                "title": "Saiyyan (4K Video) 🎤🌌: Kailash Kher | Paresh Kamath | Naresh Kamath | Jhoomo Re | Soulfull Song",
+                "channel": "Sony Music India",
+                "duration": "5:14",
+                "score": 169
+              },
+              {
+                "id": "5L23h6dIzD0",
+                "title": "Saiyyan - Lyrical Video | Kailash Kher Superhit Song | Paresh Kamath, Naresh Kamath",
+                "channel": "Sony Music India",
+                "duration": "5:45",
+                "score": 164
+              },
+              {
+                "id": "WWP0t-GMh3U",
+                "title": "Saiyyan (Lyric Video) - Kailash Kher | Paresh Kamath| Naresh Kamath | Kailasa Jhoomo Re",
+                "channel": "I-POP Hits",
+                "duration": "5:45",
+                "score": 163
+              },
+              {
+                "id": "TuUVVKVdZm4",
+                "title": "Saiyyan - Kailash Kher | Paresh Kamath | Naresh Kamath | Jhoomo Re",
+                "channel": "Sony Music India",
+                "duration": "5:10",
+                "score": 159
+              }
+            ]
+          }
         }
       ]
     },
@@ -190,116 +1154,930 @@
           "title": "O Sanam",
           "artist": "Lucky Ali",
           "film": "Sunoh",
-          "id": ""
+          "id": "dWqb-WqbGh8",
+          "match": {
+            "title": "Lucky Ali - O Sanam - Sunoh | Official Music Video",
+            "channel": "SonyMusicIndiaVEVO",
+            "duration": "4:17",
+            "score": 181,
+            "url": "https://youtu.be/dWqb-WqbGh8",
+            "alternatives": [
+              {
+                "id": "cADnAAsYlqM",
+                "title": "O Sanam | Official Video (4K Video) 🌅🎸: Sunoh | Lucky Ali | 90s Hindi Indian Pop Songs",
+                "channel": "Sony Music India",
+                "duration": "4:17",
+                "score": 181
+              },
+              {
+                "id": "qZgTPiuifBo",
+                "title": "O Sanam - Sunoh | Lucky Ali | Official Hindi Pop Song",
+                "channel": "SonyMusicIndiaVEVO",
+                "duration": "3:45",
+                "score": 181
+              },
+              {
+                "id": "o6nn78ctKLk",
+                "title": "O Sanam | Lyrical Video | Lucky Ali - Sunoh | 90s Superhit Song",
+                "channel": "Sony Music India",
+                "duration": "3:42",
+                "score": 176
+              },
+              {
+                "id": "eMb7uDFS_NA",
+                "title": "O Sanam - Sunoh | Lucky Ali | (Official Lyric Video) | Hindi Indian Pop Songs",
+                "channel": "I-POP Hits",
+                "duration": "3:43",
+                "score": 163
+              }
+            ]
+          }
         },
         {
           "title": "Gori Teri Aankhen",
           "artist": "Lucky Ali",
           "film": "Gori Teri Aankhen",
-          "id": ""
+          "id": "eBSU4B3Z72g",
+          "match": {
+            "title": "Gori Teri Aankhen - Official Music Video | Lucky Ali & Kavita Krishnamurthy",
+            "channel": "Zee Music Company",
+            "duration": "4:20",
+            "score": 181,
+            "url": "https://youtu.be/eBSU4B3Z72g",
+            "alternatives": [
+              {
+                "id": "AZBGML5COwU",
+                "title": "Lucky Ali - Gori teri aankhen kahe song 🎧",
+                "channel": "Soul Music Vevo 🎼",
+                "duration": "5:27",
+                "score": 181
+              },
+              {
+                "id": "yLREGdXtDgQ",
+                "title": "Gori Teri Aankhen Kahe - Lucky Ali & Kavita Krishnamurthy | Official Music Video",
+                "channel": "Zee Music Classic",
+                "duration": "4:20",
+                "score": 163
+              },
+              {
+                "id": "UHd73bEDjI0",
+                "title": "Gori Teri Aankhen - Official Music Video | Lucky Ali & Kavita Krishnamurthy",
+                "channel": "Dil Se Bollywood 24x7",
+                "duration": "4:20",
+                "score": 163
+              },
+              {
+                "id": "gQ-Oc4UEAxk",
+                "title": "Gori Teri Aankhen - Official Music Video | Lucky Ali & Kavita Krishnamurthy",
+                "channel": "Love Tunes 24x7",
+                "duration": "4:20",
+                "score": 163
+              }
+            ]
+          }
         },
         {
           "title": "Maeri",
           "artist": "Euphoria",
-          "id": ""
+          "id": "eBi2R-H8zYg",
+          "match": {
+            "title": "Use Headphones !!! Maeri Song | Euphoria (Indian Band) | High Quality Audio",
+            "channel": "Investment with Chander Dhawan",
+            "duration": "5:33",
+            "score": 151,
+            "url": "https://youtu.be/eBi2R-H8zYg",
+            "alternatives": [
+              {
+                "id": "GQcbOnM9IgQ",
+                "title": "MAERI (EUPHORIA)",
+                "channel": "ASHOK ROY",
+                "duration": "3:32",
+                "score": 141
+              },
+              {
+                "id": "-XhcABgynhw",
+                "title": "Maeri - Lost Stories Edit | Euphoria | feat. Shriram Sampath, Avanti N",
+                "channel": "LostStoriesMusic",
+                "duration": "3:12",
+                "score": 141
+              },
+              {
+                "id": "Zs79WFEJqT4",
+                "title": "Euphoria - Maeri Live Performance ( Fitoor_band )",
+                "channel": "Aayush Santoshi",
+                "duration": "3:13",
+                "score": 141
+              },
+              {
+                "id": "sPykITSq_rk",
+                "title": "Maeri - Euphoria Live in concert at NICMAR Pune",
+                "channel": "Ankit Khare",
+                "duration": "2:46",
+                "score": 141
+              }
+            ]
+          }
         },
         {
           "title": "Dhoom Pichak Dhoom",
           "artist": "Euphoria",
-          "id": ""
+          "id": "1UNMly3ev2I",
+          "match": {
+            "title": "Dhoom Pichak Dhoom- Euphoria High Quality | Remastered Version | Audiophile Music | HQ",
+            "channel": "Soham Shivoham",
+            "duration": "4:53",
+            "score": 151,
+            "url": "https://youtu.be/1UNMly3ev2I",
+            "alternatives": [
+              {
+                "id": "PW2I3YLfyV0",
+                "title": "Maeri Dhoom Pichak Dhoom recreated by Sachin-Jigar(Audio) || Originally created by Euphoria",
+                "channel": "Akram Khan",
+                "duration": "6:36",
+                "score": 151
+              },
+              {
+                "id": "LlMZvRPpqOU",
+                "title": "Dhoom Pichak Dhoom & Maeri| Recreated By Sachin Jigar | Times of Music 2020| Euphoria| Palash Sen",
+                "channel": "Melody Wala",
+                "duration": "6:36",
+                "score": 141
+              },
+              {
+                "id": "msv_JRaZjws",
+                "title": "Dhoom Pichak Dhoom | Euphoria Band Performed at Udaipur World Music Festival",
+                "channel": "Daily Udaipur",
+                "duration": "4:01",
+                "score": 141
+              },
+              {
+                "id": "czsggGCM0ys",
+                "title": "Dhoom pichak Dhoom Euphoria - Live Prasanna Watve",
+                "channel": "kingonfire786",
+                "duration": "3:53",
+                "score": 141
+              }
+            ]
+          }
         },
         {
           "title": "Dooba Dooba",
           "artist": "Silk Route",
-          "id": ""
+          "id": "ecPMVO7JuTo",
+          "match": {
+            "title": "Dooba Dooba - Boondein | Silk Route | Mohit Chauhan, Kem Trivedi, Atul Mittal",
+            "channel": "SonyMusicIndiaVEVO",
+            "duration": "5:11",
+            "score": 169,
+            "url": "https://youtu.be/ecPMVO7JuTo",
+            "alternatives": [
+              {
+                "id": "epUBGOngvaU",
+                "title": "Dooba Dooba - Dooba Dooba - Silk Route | Official Hindi Pop Song",
+                "channel": "SonyMusicIndiaVEVO",
+                "duration": "5:05",
+                "score": 169
+              },
+              {
+                "id": "wSUlUvCxYQY",
+                "title": "Dooba Dooba (Audio Lyrical) Silk Route | Mohit Chauhan, Kem Trivedi, Atul Mittal | 90s Hit Pop Songs",
+                "channel": "Sony Music India",
+                "duration": "5:10",
+                "score": 164
+              },
+              {
+                "id": "aI199Z6VC-s",
+                "title": "Dooba Dooba (Audio Lyrical) Silk Route | Mohit Chauhan, Kem Trivedi, Atul Mittal | 90s Hit Pop Songs",
+                "channel": "I-POP Hits",
+                "duration": "5:10",
+                "score": 146
+              },
+              {
+                "id": "4TgCOHYDbOk",
+                "title": "Dooba Dooba | Silk Route | Boondein",
+                "channel": "Hindi “Hindimuzik07” muzik07",
+                "duration": "5:06",
+                "score": 141
+              }
+            ]
+          }
         },
         {
           "title": "Boondein",
           "artist": "Silk Route",
-          "id": ""
+          "id": "O5ftSkrScD8",
+          "match": {
+            "title": "Boondein - Silk Route | Official Hindi Pop Song",
+            "channel": "SonyMusicIndiaVEVO",
+            "duration": "4:52",
+            "score": 169,
+            "url": "https://youtu.be/O5ftSkrScD8",
+            "alternatives": [
+              {
+                "id": "ecPMVO7JuTo",
+                "title": "Dooba Dooba - Boondein | Silk Route | Mohit Chauhan, Kem Trivedi, Atul Mittal",
+                "channel": "SonyMusicIndiaVEVO",
+                "duration": "5:11",
+                "score": 169
+              },
+              {
+                "id": "RsYXuV6XBn4",
+                "title": "Boondein - Silk Route",
+                "channel": "Md. Nahin",
+                "duration": "4:50",
+                "score": 141
+              },
+              {
+                "id": "uCQJ1aZl8rw",
+                "title": "Boondein Silk Route Boondein 1998",
+                "channel": "Indipop Songs",
+                "duration": "4:51",
+                "score": 141
+              },
+              {
+                "id": "XHVRvOBm-OE",
+                "title": "Boondein - Silk Route | THE LOST SOUL",
+                "channel": "THE LOST SOUL",
+                "duration": "4:47",
+                "score": 141
+              }
+            ]
+          }
         },
         {
           "title": "Aadat",
           "artist": "Jal",
-          "id": ""
+          "id": "x--zeOqqeFc",
+          "match": {
+            "title": "Aadat",
+            "channel": "Jal - Topic",
+            "duration": "4:30",
+            "score": 151,
+            "url": "https://youtu.be/x--zeOqqeFc",
+            "alternatives": [
+              {
+                "id": "tjsckg5t1k8",
+                "title": "Aadat",
+                "channel": "jal - Topic",
+                "duration": "5:34",
+                "score": 151
+              },
+              {
+                "id": "go3xU6g1k00",
+                "title": "Aadat (Remix)",
+                "channel": "jal - Topic",
+                "duration": "4:05",
+                "score": 151
+              },
+              {
+                "id": "8YjQU3PUmcY",
+                "title": "Aadat - JAL (Farhan, Goher & Shazi)",
+                "channel": "Kanan Gupta",
+                "duration": "4:26",
+                "score": 141
+              },
+              {
+                "id": "6398vEG4vVk",
+                "title": "JAL - Aadat",
+                "channel": "Zulu X0X",
+                "duration": "4:35",
+                "score": 141
+              }
+            ]
+          }
         },
         {
           "title": "Sajni",
           "artist": "Jal",
-          "id": ""
+          "id": "0uD87DgLROE",
+          "match": {
+            "title": "Sajni - Audio Song | Boondh A Drop of Jal | Jal - The Band",
+            "channel": "The Beat Drop ",
+            "duration": "5:11",
+            "score": 151,
+            "url": "https://youtu.be/0uD87DgLROE",
+            "alternatives": [
+              {
+                "id": "ex24cVik7R8",
+                "title": "Sajni - Official Video Song | Boondh A Drop of Jal | Jal - The Band | Old Hit Hindi Sogs | 90's Song",
+                "channel": "Hindi Songs Collection",
+                "duration": "5:04",
+                "score": 151
+              },
+              {
+                "id": "c0kysb_oByQ",
+                "title": "Sajni - Slow Version",
+                "channel": "Jal - Topic",
+                "duration": "5:44",
+                "score": 151
+              },
+              {
+                "id": "Fx1DjTZCjU0",
+                "title": "Sajni-Jal Band HD Video song",
+                "channel": "Shimul Pigeon Loft",
+                "duration": "3:44",
+                "score": 151
+              },
+              {
+                "id": "CfBSHNaCdUc",
+                "title": "Sajni",
+                "channel": "JalRaj",
+                "duration": "4:09",
+                "score": 141
+              }
+            ]
+          }
         },
         {
           "title": "Dhaani",
           "artist": "Strings",
-          "id": ""
+          "id": "F-9tpRvdWug",
+          "match": {
+            "title": "Strings | Najanay Kyu - Official Lyrical Video | Dhaani | Nostagic Indian Pop Song | 2000s Song",
+            "channel": "Sony Music India",
+            "duration": "5:04",
+            "score": 164,
+            "url": "https://youtu.be/F-9tpRvdWug",
+            "alternatives": [
+              {
+                "id": "n7F1U6lP2NY",
+                "title": "Dhaani | Strings | 2003 | Dhaani | (Official Video) | Zeba Bakhtiar",
+                "channel": "Stringsonline",
+                "duration": "4:43",
+                "score": 151
+              },
+              {
+                "id": "Lp20gC9GsY4",
+                "title": "Dhaani - Strings FLAC Audio Quality",
+                "channel": "90's Jeans and a Guitar",
+                "duration": "4:31",
+                "score": 151
+              },
+              {
+                "id": "DZIUT1n0abw",
+                "title": "Mera Bichraa Yaar | Strings | 2003 | Dhaani | (Official Video)",
+                "channel": "Stringsonline",
+                "duration": "3:34",
+                "score": 151
+              },
+              {
+                "id": "7KjB3Z9hG8k",
+                "title": "Kahani Muhabbat Ki  | Strings | 2003 | Dhaani | (Official Video)",
+                "channel": "Stringsonline",
+                "duration": "5:22",
+                "score": 151
+              }
+            ]
+          }
         },
         {
           "title": "Duur",
           "artist": "Strings",
-          "id": ""
+          "id": "TXCT0HaPd_I",
+          "match": {
+            "title": "Strings (Bilal Maqsood & Faisal Kapadia) - Ankhen Official Full Song Video - Album Duur",
+            "channel": "Sony Music India",
+            "duration": "5:07",
+            "score": 169,
+            "url": "https://youtu.be/TXCT0HaPd_I",
+            "alternatives": [
+              {
+                "id": "hbhS8fdMTy4",
+                "title": "Duur - Official Lyrics|Strings",
+                "channel": "LyricGuruVEVO",
+                "duration": "5:09",
+                "score": 164
+              },
+              {
+                "id": "CfTUbzQt1v0",
+                "title": "Khwaab - Duur|Official Lyrics|Strings",
+                "channel": "LyricGuruVEVO",
+                "duration": "3:57",
+                "score": 164
+              },
+              {
+                "id": "nkynUI93zcY",
+                "title": "Kuch To Ho Gaya - Duur|Official Lyrics|Strings",
+                "channel": "LyricGuruVEVO",
+                "duration": "4:15",
+                "score": 164
+              },
+              {
+                "id": "prbPt3eAOE8",
+                "title": "Duur - Reprise - Official Lyrics|Strings",
+                "channel": "LyricGuruVEVO",
+                "duration": "5:01",
+                "score": 164
+              }
+            ]
+          }
         },
         {
           "title": "Yeh Hai Meri Kahani",
           "artist": "Strings",
           "film": "Zinda",
-          "id": ""
+          "id": "GZimbS7dqfE",
+          "match": {
+            "title": "Yeh Hai Meri Kahani - Video Song | Strings | Zinda | Sanjay Dutt, John Abraham, Lara Dutta",
+            "channel": "T-Series Bollywood Classics",
+            "duration": "3:17",
+            "score": 163,
+            "url": "https://youtu.be/GZimbS7dqfE",
+            "alternatives": [
+              {
+                "id": "JI6eGoJYw0U",
+                "title": "Oldboy - Yeh Hai Meri Kahani | Strings| Zinda| Faisal Kapadia | Bilal Maqsood",
+                "channel": "fadedtenses",
+                "duration": "5:01",
+                "score": 153
+              },
+              {
+                "id": "GT5rWBUNXpo",
+                "title": "Yeh Hai Meri Kahani - Lyrical Video | Strings | Sani Speaks",
+                "channel": "Chusspay wala",
+                "duration": "5:18",
+                "score": 146
+              },
+              {
+                "id": "6uHx2ecvtUY",
+                "title": "Sanjay Dutt - John Abraham Strings Zinda - Yeh Hai Meri Kahani (music)",
+                "channel": "babaalive",
+                "duration": "1:21",
+                "score": 145
+              },
+              {
+                "id": "1BFIv5AuPJA",
+                "title": "Yeh Hai Meri Kahani",
+                "channel": "Stringsonline",
+                "duration": "5:17",
+                "score": 141
+              }
+            ]
+          }
         },
         {
           "title": "Bulla Ki Jaana",
           "artist": "Rabbi Shergill",
-          "id": ""
+          "id": "_iEurlZE0hg",
+          "match": {
+            "title": "Rabbi Shergill Performs 'Bulla Ki Jaana'",
+            "channel": "Universal Music India",
+            "duration": "6:10",
+            "score": 159,
+            "url": "https://youtu.be/_iEurlZE0hg",
+            "alternatives": [
+              {
+                "id": "gbpdE8n_QWo",
+                "title": "Bulla Ki Jaana Main Kaun – Rabbi Shergill Lyrics [PUNJABI | ROM | ENG]",
+                "channel": "VLyrical",
+                "duration": "5:14",
+                "score": 136
+              },
+              {
+                "id": "XcDrYOyo1WM",
+                "title": "Bulla Ki Jaana | Rabbi Shergill | Jeevay Punjab",
+                "channel": "Jeevay Punjab",
+                "duration": "8:32",
+                "score": 133
+              },
+              {
+                "id": "VzsQ55-LL80",
+                "title": "RABBI - Bulla Ki Jaana",
+                "channel": "phatphishmusic",
+                "duration": "5:14",
+                "score": 113
+              },
+              {
+                "id": "lsG5yoK0XPA",
+                "title": "Bulla Ki Jaana",
+                "channel": "Daniel Shah",
+                "duration": "5:12",
+                "score": 113
+              }
+            ]
+          }
         },
         {
           "title": "Kya Soorat Hai",
           "artist": "Bombay Vikings",
-          "id": ""
+          "id": "lamHZpkW-HY",
+          "match": {
+            "title": "Bombay Vikings - Kya Soorat Hai | Neeraj Shridhar, Raju Sundaram",
+            "channel": "SonyMusicIndiaVEVO",
+            "duration": "3:42",
+            "score": 169,
+            "url": "https://youtu.be/lamHZpkW-HY",
+            "alternatives": [
+              {
+                "id": "0vZ2cGCigXs",
+                "title": "Kya Soorat Hai - Kya Soorat Hai | High Quality Audio | Bombay Vikings",
+                "channel": "The Mastering Project",
+                "duration": "3:51",
+                "score": 151
+              },
+              {
+                "id": "sKqmxuBrUYI",
+                "title": "Kya Soorat Hai- Bombay Vikings High Quality | Digitally Remastered Version | Audiophile Music | HQ",
+                "channel": "Soham Shivoham",
+                "duration": "3:51",
+                "score": 151
+              },
+              {
+                "id": "govjmEoY4z8",
+                "title": "KYA SOORAT HAI Bombay Vikings | Neeraj Shridhar, Raju Sundaram | Indian 90s Pop | HQ Audio  ",
+                "channel": "Back To The 90s 20s Nostalgia Songs ",
+                "duration": "3:54",
+                "score": 151
+              },
+              {
+                "id": "lEz6qv5zqyk",
+                "title": "Kya Soorat Hai - Lyrical Video | Bombay Vikings | Neeraj Shridhar, Raju Sundaram",
+                "channel": "I-POP Hits",
+                "duration": "3:56",
+                "score": 146
+              }
+            ]
+          }
         },
         {
           "title": "Hawa Mein Udati Jaaye",
           "artist": "Bombay Vikings",
-          "id": ""
+          "id": "iM3RsJArXy4",
+          "match": {
+            "title": "Bombay Vikings - Hawa Mein Udati Jaaye ( Music Video ) Gauahar Khan | Shankar-Jaikishan | HD Video",
+            "channel": "UMusicIndiaVEVO",
+            "duration": "3:43",
+            "score": 169,
+            "url": "https://youtu.be/iM3RsJArXy4",
+            "alternatives": [
+              {
+                "id": "v8VD0NbDwXY",
+                "title": "Bombay Vikings - Hawa Mein Udati Jaaye (Lyric Video) | Shankar-Jaikishan | Gauhar Khan",
+                "channel": "Universal Music India",
+                "duration": "3:46",
+                "score": 169
+              },
+              {
+                "id": "H_OrVz0uJts",
+                "title": "Bombay Vikings- Hawa Mein Udati Jaaye (Official Video) | Shankar-Jaikishan | Hindi Songs | Revibe",
+                "channel": "Universal Music India",
+                "duration": "3:47",
+                "score": 169
+              },
+              {
+                "id": "ZzR_xkQqeVM",
+                "title": "Bombay Vikings- Hawa Mein Udati Jaaye (Official Video) | Shankar-Jaikishan | Hindi Songs | Revibe",
+                "channel": "Universal Music India",
+                "duration": "3:49",
+                "score": 169
+              },
+              {
+                "id": "68C7eB_WtAo",
+                "title": "Bombay Vikings - Hawa Mein Udati Jaaye (Video) | Shankar-Jaikishan | Laal Dupatta Mal Mal Ka",
+                "channel": "UMusicIndiaVEVO",
+                "duration": "3:41",
+                "score": 169
+              }
+            ]
+          }
         },
         {
           "title": "Maine Payal Hai Chhankai",
           "artist": "Falguni Pathak",
-          "id": ""
+          "id": "Rbz1qFlRL_Y",
+          "match": {
+            "title": "Falguni Pathak- Maine Payal Hai Chhankai (Official Music Video) | Revibe | Hindi Songs",
+            "channel": "Universal Music India",
+            "duration": "4:36",
+            "score": 169,
+            "url": "https://youtu.be/Rbz1qFlRL_Y",
+            "alternatives": [
+              {
+                "id": "oEV2TUEyPy4",
+                "title": "Falguni Pathak - Maine Payal Hai Chhankai (Official Lyric Video) | Tune Paayal Jo Chhankaayi",
+                "channel": "Universal Music India",
+                "duration": "4:35",
+                "score": 169
+              },
+              {
+                "id": "_SQPnGjEonk",
+                "title": "Falguni Pathak- Maine Payal Hai Chhankai (Official Music Video) | Revibe | Hindi Songs",
+                "channel": "Universal Music India",
+                "duration": "4:30",
+                "score": 169
+              },
+              {
+                "id": "wxjYD1aI9_8",
+                "title": "Falguni Pathak - Maine Payal Hai Chhankai (Vertical Video) | Revibe | Hindi Songs",
+                "channel": "Universal Music India",
+                "duration": "4:30",
+                "score": 169
+              },
+              {
+                "id": "0tjVtYtZ384",
+                "title": "Falguni Pathak - Maine Payal Hai Chhankai",
+                "channel": "FalguniPathakVEVO",
+                "duration": "4:35",
+                "score": 169
+              }
+            ]
+          }
         },
         {
           "title": "Purani Jeans",
           "artist": "Ali Haider",
-          "id": ""
+          "id": "oOydbzen5Ks",
+          "match": {
+            "title": "Purani Jeans",
+            "channel": "Ali Haider - Topic",
+            "duration": "5:00",
+            "score": 151,
+            "url": "https://youtu.be/oOydbzen5Ks",
+            "alternatives": [
+              {
+                "id": "HdTdcnl8ZrM",
+                "title": "Purani Jeans | Remastered | Ali Haider | Official Audio",
+                "channel": "Ali Haider",
+                "duration": "4:04",
+                "score": 151
+              },
+              {
+                "id": "8q6iobugPUs",
+                "title": "Purani Jeans",
+                "channel": "Ali Haider - Topic",
+                "duration": "5:04",
+                "score": 151
+              },
+              {
+                "id": "0db4B-wGOE4",
+                "title": "Purani Jeans",
+                "channel": "Ali Haider - Topic",
+                "duration": "4:54",
+                "score": 151
+              },
+              {
+                "id": "FWYYu1bX5TE",
+                "title": "Purani Jeans",
+                "channel": "Ali Haider - Topic",
+                "duration": "4:59",
+                "score": 151
+              }
+            ]
+          }
         },
         {
           "title": "Yaaron",
           "artist": "KK",
           "film": "Pal",
-          "id": ""
+          "id": "LCfvYo3ILG0",
+          "match": {
+            "title": "KK - Yaaron",
+            "channel": "SonyMusicIndiaVEVO",
+            "duration": "4:18",
+            "score": 169,
+            "url": "https://youtu.be/LCfvYo3ILG0",
+            "alternatives": [
+              {
+                "id": "mQ-hLsVTcW8",
+                "title": "Yaaron - Rockford | KK,  Leslie Lewis",
+                "channel": "SonyMusicIndiaVEVO",
+                "duration": "4:19",
+                "score": 169
+              },
+              {
+                "id": "MiVbwrblkdM",
+                "title": "Yaaron Dosti - KK | Best KK Song | Zindagi Na Milegi Dobara Movie  | Sachin K.",
+                "channel": "My Wedding Tales",
+                "duration": "4:23",
+                "score": 141
+              },
+              {
+                "id": "vdCHMu-oK9Q",
+                "title": "Esther Hnamte & David Zawma - Yaaron ( Kk Song Cover)",
+                "channel": "Esther Hnamte Official",
+                "duration": "5:25",
+                "score": 106
+              },
+              {
+                "id": "wuNtVQUxug8",
+                "title": "Yaaron - KK (Karaoke Version)",
+                "channel": "Sing India Karaoke",
+                "duration": "4:31",
+                "score": 86
+              }
+            ]
+          }
         },
         {
           "title": "Pal",
           "artist": "KK",
           "film": "Pal",
-          "id": ""
+          "id": "nDOpAEW2q2w",
+          "match": {
+            "title": "Arijit Singh - Pal | Official Video | Nawazuddin Siddiqui | Monsoon Shootout | Rochak Kohli",
+            "channel": "Saregama Music",
+            "duration": "3:55",
+            "score": 153,
+            "url": "https://youtu.be/nDOpAEW2q2w",
+            "alternatives": [
+              {
+                "id": "aDFEb_W2t1Y",
+                "title": "Pal - Full Video | Arijit Singh | Shreya Ghoshal | Rhea & Varun | Javed - Mohsin | Jalebi",
+                "channel": "Sony Music India",
+                "duration": "4:55",
+                "score": 153
+              },
+              {
+                "id": "XCILkYbk1A4",
+                "title": "Pal by KK ( Easy Version)",
+                "channel": "LovePeaceMusic",
+                "duration": "6:21",
+                "score": 153
+              },
+              {
+                "id": "cPbTAIH1nNg",
+                "title": "Armaan Malik - Pal (Live) | KK Tribute | CET Trivandrum 2022",
+                "channel": "Armaan Malik",
+                "duration": "5:52",
+                "score": 153
+              },
+              {
+                "id": "w8LcxY43N5Y",
+                "title": "Pal - Lyrical Video | Jalebi | Arijit Singh | Shreya Ghoshal | Rhea & Varun | Javed - Mohsin",
+                "channel": "Sony Music India",
+                "duration": "4:12",
+                "score": 148
+              }
+            ]
+          }
         },
         {
           "title": "Aankhon Mein Tera Hi Chehra",
           "artist": "Aryans",
-          "id": ""
+          "id": "V3vSJyHWFEw",
+          "match": {
+            "title": "Aankhon Mein Tera Hi Chehra (Official Video) Shahid Kapoor | Aryans | Hrishitaa B| 90s Superhit Song",
+            "channel": "Universal Music India",
+            "duration": "3:33",
+            "score": 169,
+            "url": "https://youtu.be/V3vSJyHWFEw",
+            "alternatives": [
+              {
+                "id": "KtaEx7q4bZw",
+                "title": "Jai Walia - Aankhon Mein Tera Hi Chehra (Official Video) Shahid Kapoor | Aryans | 90s Indie Pop Song",
+                "channel": "UMusicIndiaVEVO",
+                "duration": "3:57",
+                "score": 169
+              },
+              {
+                "id": "UP_rG8O_RFw",
+                "title": "Aankhon Mein Tera Hi Chehra | Aryans | Jai Walia | Hindi HQ | Remastered",
+                "channel": "Siratune",
+                "duration": "3:34",
+                "score": 141
+              },
+              {
+                "id": "0NrSTaFxWW4",
+                "title": "Aryans - Aankhon Mein Tera Hi Chehra.flv",
+                "channel": "coolmanjot",
+                "duration": "3:40",
+                "score": 141
+              },
+              {
+                "id": "Rd1Jnk81J84",
+                "title": "Aryans - Aankhon Mein Tera Hi Chehra.flv",
+                "channel": "cool",
+                "duration": "3:40",
+                "score": 141
+              }
+            ]
+          }
         },
         {
           "title": "Meri Neend",
           "artist": "Band of Boys",
-          "id": ""
+          "id": "4Aj47wsAtdE",
+          "match": {
+            "title": "Meri Neend | A Band of Boys | Ye Bhi Voh Bhi| Official Video",
+            "channel": "A Band of Boys",
+            "duration": "4:00",
+            "score": 151,
+            "url": "https://youtu.be/4Aj47wsAtdE",
+            "alternatives": [
+              {
+                "id": "bUjJLPmGGcE",
+                "title": "Meri Neend - A Band of Boys",
+                "channel": "Leslee Lewis",
+                "duration": "4:00",
+                "score": 141
+              },
+              {
+                "id": "cZEIcAK0HCM",
+                "title": "Meri Neend Ud Gayi Hai A Band of Boys",
+                "channel": "Indipop Songs",
+                "duration": "5:01",
+                "score": 141
+              },
+              {
+                "id": "v5NYiZe89TY",
+                "title": "A Band of Boys - Meri Neend | Original Song with New Bass Mix | 2000s Indipop Remaster",
+                "channel": "Moosic",
+                "duration": "5:04",
+                "score": 141
+              },
+              {
+                "id": "aOXs_x1JtIY",
+                "title": "Meri Neend - Band Of Boys | Lyrics",
+                "channel": "SwapzzSecretWorld",
+                "duration": "3:59",
+                "score": 136
+              }
+            ]
+          }
         },
         {
           "title": "Tera Chehra",
           "artist": "Adnan Sami",
-          "id": ""
+          "id": "9WAJBsXbidc",
+          "match": {
+            "title": "Tera Chehra Title Track Full Audio Song Adnan Sami Pop Album Songs",
+            "channel": "Sandeep D",
+            "duration": "6:33",
+            "score": 151,
+            "url": "https://youtu.be/9WAJBsXbidc",
+            "alternatives": [
+              {
+                "id": "umScn1HsbVc",
+                "title": "Tera Chehra ❤️ | Adnan Sami | Evergreen Romantic Classic Song | 2002 Superhit Love Song | HD Audio",
+                "channel": "Purana swag",
+                "duration": "6:36",
+                "score": 151
+              },
+              {
+                "id": "dOBkuHw6BnQ",
+                "title": "Tera Chehra Jab Nazar Aaye Lyrical Video | Tera Chehra | Adnan Sami Feat. Rani Mukherjee",
+                "channel": "Pop Chartbusters",
+                "duration": "6:32",
+                "score": 146
+              },
+              {
+                "id": "HpdYfiYFzBY",
+                "title": "Tera Chehra | Adnan Sami | (HIGH QUALITY 5.1)",
+                "channel": "F L A C 9",
+                "duration": "6:33",
+                "score": 141
+              },
+              {
+                "id": "T7IXOpnfc2M",
+                "title": "TERA CHEHRA (Title Track): Adnan Sami | Rani Mukerji | Romantic Pop Song",
+                "channel": "Pop Chartbusters",
+                "duration": "5:20",
+                "score": 141
+              }
+            ]
+          }
         },
         {
           "title": "Kabhi To Nazar Milao",
           "artist": "Adnan Sami Asha Bhosle",
-          "id": ""
+          "id": "Ct5_kZGMa8U",
+          "match": {
+            "title": "Pyar Hai - Kabhi To Nazar Milao|Official Lyrics|Adnan Sami|Asha Bhosle",
+            "channel": "LyricGuruVEVO",
+            "duration": "5:34",
+            "score": 164,
+            "url": "https://youtu.be/Ct5_kZGMa8U",
+            "alternatives": [
+              {
+                "id": "FaMrSwaFzaU",
+                "title": "Pyar Bhi - Kabhi To Nazar Milao|Official Lyrics|Adnan Sami|Asha Bhosle",
+                "channel": "LyricGuruVEVO",
+                "duration": "5:19",
+                "score": 164
+              },
+              {
+                "id": "J4xHp0hnzEY",
+                "title": "Kabhi To Nazar Milao - Unplugged - Official Lyrics|Adnan Sami|Asha Bhosle",
+                "channel": "LyricGuruVEVO",
+                "duration": "4:16",
+                "score": 164
+              },
+              {
+                "id": "84k0Dk1xAdg",
+                "title": "ASHA BHOSLE & ADNAN SAMI - Kabhi To Nazar Milao Official Full Song Video",
+                "channel": "Sony Music India",
+                "duration": "5:05",
+                "score": 141
+              },
+              {
+                "id": "_pTT9aUrOxI",
+                "title": "Kabhi To Nazar Milao - Official Lyrics|Asha Bhosle|Adnan Sami",
+                "channel": "LyricGuruVEVO",
+                "duration": "7:42",
+                "score": 136
+              }
+            ]
+          }
         }
       ]
     },
@@ -309,82 +2087,638 @@
         {
           "title": "Numb",
           "artist": "Linkin Park",
-          "id": ""
+          "id": "kXYiU_JCYtU",
+          "match": {
+            "title": "Numb (Official Music Video) [4K UPGRADE] – Linkin Park",
+            "channel": "Linkin Park",
+            "duration": "3:08",
+            "score": 151,
+            "url": "https://youtu.be/kXYiU_JCYtU",
+            "alternatives": [
+              {
+                "id": "KIfYtDl4B2g",
+                "title": "Linkin Park - Numb (Audio)",
+                "channel": "YOUMUSIC",
+                "duration": "3:07",
+                "score": 151
+              },
+              {
+                "id": "_1oO4wzPCmE",
+                "title": "Numb / Encore (Official Audio) - Linkin Park / JAY-Z",
+                "channel": "Linkin Park",
+                "duration": "3:27",
+                "score": 151
+              },
+              {
+                "id": "DLlF2FMv968",
+                "title": "Numb / Encore [Live] (Official Music Video) [4K Upgrade] - Linkin Park / JAY-Z",
+                "channel": "Linkin Park",
+                "duration": "3:33",
+                "score": 151
+              },
+              {
+                "id": "pln7NWRA1dE",
+                "title": "Numb/Encore - Linkin Park ft. Jay Z (Unofficial Music Video)",
+                "channel": "Neil Collins",
+                "duration": "3:31",
+                "score": 151
+              }
+            ]
+          }
         },
         {
           "title": "In the End",
           "artist": "Linkin Park",
-          "id": ""
+          "id": "Q3gy8A0jY10",
+          "match": {
+            "title": "Linkin Park - In The End (Audio)",
+            "channel": "YOUMUSIC",
+            "duration": "3:38",
+            "score": 151,
+            "url": "https://youtu.be/Q3gy8A0jY10",
+            "alternatives": [
+              {
+                "id": "eVTXPUF4Oz4",
+                "title": "In The End [Official HD Music Video] - Linkin Park",
+                "channel": "Linkin Park",
+                "duration": "3:39",
+                "score": 151
+              },
+              {
+                "id": "g9j5UzxEhEM",
+                "title": "In The End (Official Lyric Video) - Linkin Park",
+                "channel": "Linkin Park",
+                "duration": "3:37",
+                "score": 151
+              },
+              {
+                "id": "KTGjgfYCGXw",
+                "title": "Linkin Park-In the End (Hybrid Theory) { 24 BIT FLAC } Hi-Res Audio + Download",
+                "channel": "HiBeats Audio",
+                "duration": "3:37",
+                "score": 151
+              },
+              {
+                "id": "oWXEUoS6Qtg",
+                "title": "Izzo / In the End (Official Audio) - Linkin Park / JAY-Z",
+                "channel": "Linkin Park",
+                "duration": "2:45",
+                "score": 151
+              }
+            ]
+          }
         },
         {
           "title": "Somewhere I Belong",
           "artist": "Linkin Park",
-          "id": ""
+          "id": "GEGieUB4b3c",
+          "match": {
+            "title": "Linkin Park - Somewhere I Belong (Audio)",
+            "channel": "YOUMUSIC",
+            "duration": "3:34",
+            "score": 151,
+            "url": "https://youtu.be/GEGieUB4b3c",
+            "alternatives": [
+              {
+                "id": "zsCD5XCu6CM",
+                "title": "Somewhere I Belong (Official Music Video) [4K UPGRADE] – Linkin Park",
+                "channel": "Linkin Park",
+                "duration": "3:46",
+                "score": 151
+              },
+              {
+                "id": "tGuUvGZK1HY",
+                "title": "Linkin Park - Somewhere I Belong (Official Music Video)",
+                "channel": "Song des Tages",
+                "duration": "3:36",
+                "score": 151
+              },
+              {
+                "id": "tX70KkqLZi0",
+                "title": "Somewhere I Belong [Live in São Paulo] (Official Video) - Linkin Park",
+                "channel": "Linkin Park",
+                "duration": "3:27",
+                "score": 151
+              },
+              {
+                "id": "ZX7k6DdyuWk",
+                "title": "Linkin Park - Somewhere I Belong [Meteora] [HQ Sound]",
+                "channel": "Lucatone18",
+                "duration": "3:35",
+                "score": 141
+              }
+            ]
+          }
         },
         {
           "title": "Breaking the Habit",
           "artist": "Linkin Park",
-          "id": ""
+          "id": "v2H4l9RpkwM",
+          "match": {
+            "title": "Breaking the Habit (Official Music Video) [HD UPGRADE] – Linkin Park",
+            "channel": "Linkin Park",
+            "duration": "3:19",
+            "score": 151,
+            "url": "https://youtu.be/v2H4l9RpkwM",
+            "alternatives": [
+              {
+                "id": "v_JH0TpA5eg",
+                "title": "Linkin Park - Breaking The Habit (Live from Red Square)",
+                "channel": "Антон Баюсов",
+                "duration": "4:19",
+                "score": 141
+              },
+              {
+                "id": "hrIoeGyn8Dk",
+                "title": "Linkin Park - Breaking The Habit [Meteora] [HQ Sound]",
+                "channel": "Lucatone18",
+                "duration": "3:17",
+                "score": 141
+              },
+              {
+                "id": "3jzoOX4KWA8",
+                "title": "Linkin Park - Breaking The Habit (Extended Intro/Outro)",
+                "channel": "Linkin Park Mixes",
+                "duration": "5:48",
+                "score": 141
+              },
+              {
+                "id": "zm8YU3N4w28",
+                "title": "Linkin Park - Breaking the Habit (Original Mike Shinoda 2002 Demo)",
+                "channel": "Linkin Park",
+                "duration": "3:20",
+                "score": 141
+              }
+            ]
+          }
         },
         {
           "title": "Boulevard of Broken Dreams",
           "artist": "Green Day",
-          "id": ""
+          "id": "hBvJyi3fbtA",
+          "match": {
+            "title": "Green Day - Boulevard of Broken Dreams (Official Audio)",
+            "channel": "Green Day",
+            "duration": "4:21",
+            "score": 151,
+            "url": "https://youtu.be/hBvJyi3fbtA",
+            "alternatives": [
+              {
+                "id": "Soa3gO7tL-c",
+                "title": "Green Day - Boulevard Of Broken Dreams [Official Music Video] [4K Upgrade]",
+                "channel": "Green Day",
+                "duration": "4:48",
+                "score": 151
+              },
+              {
+                "id": "Dx1SPxGn-iU",
+                "title": "Green Day - Boulevard of Broken Dreams (Audio)",
+                "channel": "YOUMUSIC",
+                "duration": "4:21",
+                "score": 151
+              },
+              {
+                "id": "QW8bWHtnOOg",
+                "title": "Green Day - Boulevard Of Broken Dreams (Official Music Video)",
+                "channel": "Song des Tages",
+                "duration": "4:46",
+                "score": 151
+              },
+              {
+                "id": "NvOzprVK1eI",
+                "title": "Green Day - Boulevard of Broken Dreams (Irving Plaza) [Official Audio]",
+                "channel": "Green Day",
+                "duration": "4:34",
+                "score": 151
+              }
+            ]
+          }
         },
         {
           "title": "Wake Me Up When September Ends",
           "artist": "Green Day",
-          "id": ""
+          "id": "pGhwBFYtn1s",
+          "match": {
+            "title": "Green Day - Wake Me Up When September Ends (Official Audio)",
+            "channel": "Green Day",
+            "duration": "4:46",
+            "score": 151,
+            "url": "https://youtu.be/pGhwBFYtn1s",
+            "alternatives": [
+              {
+                "id": "NU9JoFKlaZ0",
+                "title": "Green Day - Wake Me Up When September Ends [Official Music Video] [4K Upgrade]",
+                "channel": "Green Day",
+                "duration": "7:13",
+                "score": 151
+              },
+              {
+                "id": "P30EJ3qZUPQ",
+                "title": "Green Day - Wake Me Up When September Ends (Demo) [Official Audio]",
+                "channel": "Green Day",
+                "duration": "5:00",
+                "score": 151
+              },
+              {
+                "id": "wASacwUpeCI",
+                "title": "Green Day - Wake Me Up When September Ends - Short Version - Audio Edit -  4K (Video) 2004",
+                "channel": "DJ TAO",
+                "duration": "4:44",
+                "score": 151
+              },
+              {
+                "id": "4c2rdhshzkM",
+                "title": "Green Day - Wake Me Up When September Ends | Lyrics Video | Indo Subtitle |  Lirik Terjemahan",
+                "channel": "Pop Paling Panas",
+                "duration": "4:46",
+                "score": 146
+              }
+            ]
+          }
         },
         {
           "title": "Smack That",
           "artist": "Akon Eminem",
-          "id": ""
+          "id": "-FZyF0eQ67I",
+          "match": {
+            "title": "Akon, Eminem - Smack That (Dirty)",
+            "channel": "Mix Fix",
+            "duration": "3:34",
+            "score": 141,
+            "url": "https://youtu.be/-FZyF0eQ67I",
+            "alternatives": [
+              {
+                "id": "bKDdT_nyP54",
+                "title": "Akon - Smack That (Official Music Video) ft. Eminem",
+                "channel": "Akon",
+                "duration": "4:12",
+                "score": 123
+              },
+              {
+                "id": "kT5xt_v8PdI",
+                "title": "Akon feat. Eminem - Smack That (Audio)",
+                "channel": "Hip-Hop & Trap & Rap & R&B",
+                "duration": "3:33",
+                "score": 123
+              },
+              {
+                "id": "3aCHIuwypl0",
+                "title": "Akon - Smack That (Official Music Video) ft. Eminem",
+                "channel": "Nostalgia",
+                "duration": "4:12",
+                "score": 123
+              },
+              {
+                "id": "V7Mhsyyy2QM",
+                "title": "Akon   Smack that HD  Video & Audio Song   www srk org co cc",
+                "channel": "jetjump11",
+                "duration": "3:34",
+                "score": 123
+              }
+            ]
+          }
         },
         {
           "title": "Lonely",
           "artist": "Akon",
-          "id": ""
+          "id": "6EEW-9NDM5k",
+          "match": {
+            "title": "Akon - Lonely (Official Music Video)",
+            "channel": "Akon",
+            "duration": "4:24",
+            "score": 151,
+            "url": "https://youtu.be/6EEW-9NDM5k",
+            "alternatives": [
+              {
+                "id": "-RPL0eOLYzo",
+                "title": "Akon - Lonely [Audio]",
+                "channel": "PARTYNAUSEOUS",
+                "duration": "3:55",
+                "score": 151
+              },
+              {
+                "id": "no7LbDqt-Fk",
+                "title": "Akon - Lonely (Official Music Video) | 2005 R&B Hit ft. “Mr. Lonely” Sample",
+                "channel": "SoundScape USA ",
+                "duration": "4:28",
+                "score": 151
+              },
+              {
+                "id": "JISlh7et1w4",
+                "title": "Akon - Lonely",
+                "channel": "LatinHype",
+                "duration": "3:57",
+                "score": 141
+              },
+              {
+                "id": "FQvDB0TOOdQ",
+                "title": "Akon - Lonely [Explicit]",
+                "channel": "Your Music",
+                "duration": "3:56",
+                "score": 141
+              }
+            ]
+          }
         },
         {
           "title": "Don't Matter",
           "artist": "Akon",
-          "id": ""
+          "id": "JWA5hJl4Dv0",
+          "match": {
+            "title": "Akon - Don't Matter (Official Music Video)",
+            "channel": "Akon",
+            "duration": "4:04",
+            "score": 151,
+            "url": "https://youtu.be/JWA5hJl4Dv0",
+            "alternatives": [
+              {
+                "id": "K2Tkmolr3rE",
+                "title": "Akon - Don't Matter (Official Audio)",
+                "channel": "Espaço Music",
+                "duration": "4:56",
+                "score": 151
+              },
+              {
+                "id": "IpUbf8tDk9k",
+                "title": "Akon-\"Don't matter.(Lyrics)...",
+                "channel": "New music audio ",
+                "duration": "5:17",
+                "score": 146
+              },
+              {
+                "id": "XkKsSsTtMYU",
+                "title": "Don't Matter",
+                "channel": "Akon",
+                "duration": "4:54",
+                "score": 141
+              },
+              {
+                "id": "XAJDetb4pVQ",
+                "title": "Akon - Don't Matter [Explicit]",
+                "channel": "Your Music",
+                "duration": "4:54",
+                "score": 141
+              }
+            ]
+          }
         },
         {
           "title": "Hero",
           "artist": "Enrique Iglesias",
-          "id": ""
+          "id": "N-LM8PdVYM4",
+          "match": {
+            "title": "Enrique Iglesias - Hero [Audio HQ]",
+            "channel": "GoldenMusic",
+            "duration": "4:25",
+            "score": 151,
+            "url": "https://youtu.be/N-LM8PdVYM4",
+            "alternatives": [
+              {
+                "id": "koJlIGDImiU",
+                "title": "Enrique Iglesias - Hero",
+                "channel": "Enrique Iglesias",
+                "duration": "4:23",
+                "score": 141
+              },
+              {
+                "id": "3gAJWGYRHVU",
+                "title": "Hero - Enrique Iglesias",
+                "channel": "0mGshh",
+                "duration": "4:11",
+                "score": 141
+              },
+              {
+                "id": "_q0z5c8eQa4",
+                "title": "Enrique Iglesias - Hero",
+                "channel": "Angel Arturo",
+                "duration": "4:27",
+                "score": 141
+              },
+              {
+                "id": "4SLoZ3Ho2Ek",
+                "title": "Enrique Iglesias - Heroe (Hero)",
+                "channel": "Angel Arturo",
+                "duration": "4:25",
+                "score": 141
+              }
+            ]
+          }
         },
         {
           "title": "Escape",
           "artist": "Enrique Iglesias",
-          "id": ""
+          "id": "Gay9VB7b3qc",
+          "match": {
+            "title": "Escape - Enrique Iglesias HQ (Audio)",
+            "channel": "MusickLife",
+            "duration": "3:28",
+            "score": 151,
+            "url": "https://youtu.be/Gay9VB7b3qc",
+            "alternatives": [
+              {
+                "id": "X5lRRZtjpFU",
+                "title": "Enrique Iglesias - Escape (Lyrics)",
+                "channel": "Audioandlyrics",
+                "duration": "3:29",
+                "score": 146
+              },
+              {
+                "id": "ZQiiGbcbA_E",
+                "title": "Enrique Iglesias - Escape (Lyrics / Lyric Video)",
+                "channel": "21C Lyrics",
+                "duration": "3:35",
+                "score": 146
+              },
+              {
+                "id": "9mQJaXwGPlg",
+                "title": "Enrique Iglesias - Escape",
+                "channel": "Enrique Iglesias",
+                "duration": "3:30",
+                "score": 141
+              },
+              {
+                "id": "gyk_68Gn7RY",
+                "title": "Enrique Iglesias - Escape",
+                "channel": "Angel Arturo",
+                "duration": "3:31",
+                "score": 141
+              }
+            ]
+          }
         },
         {
           "title": "Complicated",
           "artist": "Avril Lavigne",
-          "id": ""
+          "id": "DTtb9rt1tnk",
+          "sourceUrl": "https://music.youtube.com/watch?v=DTtb9rt1tnk"
         },
         {
           "title": "Girlfriend",
           "artist": "Avril Lavigne",
-          "id": ""
+          "id": "PUbWLVt9TLo",
+          "match": {
+            "title": "Avril Lavigne Girlfriend (Audio)",
+            "channel": "Avrilero LavigneVEVO",
+            "duration": "3:41",
+            "score": 169,
+            "url": "https://youtu.be/PUbWLVt9TLo",
+            "alternatives": [
+              {
+                "id": "Bg59q4puhmg",
+                "title": "Avril Lavigne - Girlfriend (Official Video)",
+                "channel": "Avril Lavigne",
+                "duration": "3:48",
+                "score": 151
+              },
+              {
+                "id": "MLEfglaTmd0",
+                "title": "Avril Lavigne - Girlfriend (Official Lyric Video)",
+                "channel": "Avril Lavigne",
+                "duration": "3:36",
+                "score": 151
+              },
+              {
+                "id": "J7AvWo2_850",
+                "title": "Avril Lavigne - Girlfriend (Audio)",
+                "channel": "Music Topic BR",
+                "duration": "3:37",
+                "score": 151
+              },
+              {
+                "id": "yaZK-qSaUjA",
+                "title": "[4K] Avril Lavigne - Girlfriend  {Explicit}  (Music Video)",
+                "channel": "MVIDEO4K",
+                "duration": "3:50",
+                "score": 151
+              }
+            ]
+          }
         },
         {
           "title": "I Want It That Way",
           "artist": "Backstreet Boys",
-          "id": ""
+          "id": "z6Wq59qrdB0",
+          "match": {
+            "title": "Backstreet Boys - I Want It That Way (Official Audio)",
+            "channel": "Backstreet Boys",
+            "duration": "3:35",
+            "score": 151,
+            "url": "https://youtu.be/z6Wq59qrdB0",
+            "alternatives": [
+              {
+                "id": "cjCgsIx7kDI",
+                "title": "Backstreet Boys - I Want It That Way Reimagined (Official Audio Video)",
+                "channel": "Backstreet Boys",
+                "duration": "3:22",
+                "score": 151
+              },
+              {
+                "id": "9_TcHdT81XI",
+                "title": "Backstreet Boys - I Want It That Way (Alternate Lyrics - Official Lyric Video)",
+                "channel": "Backstreet Boys",
+                "duration": "3:37",
+                "score": 146
+              },
+              {
+                "id": "T_cnnhd_ZlA",
+                "title": "Backstreet Boys-I Want It That Way HQ",
+                "channel": "war path extreme",
+                "duration": "3:34",
+                "score": 141
+              },
+              {
+                "id": "2wALz6qokOc",
+                "title": "Backstreet Boys - I Want It That Way",
+                "channel": "LatinHype",
+                "duration": "3:32",
+                "score": 141
+              }
+            ]
+          }
         },
         {
           "title": "One Love",
           "artist": "Blue",
-          "id": ""
+          "id": "0pWsCiBvLOk",
+          "match": {
+            "title": "Shubh - One Love (Official Audio)",
+            "channel": "SHUBH",
+            "duration": "2:40",
+            "score": 123,
+            "url": "https://youtu.be/0pWsCiBvLOk",
+            "alternatives": [
+              {
+                "id": "4xjPODksI08",
+                "title": "One Love (Bob Marley) feat. Manu Chao | Playing For Change | Song Around The World",
+                "channel": "Playing For Change",
+                "duration": "5:08",
+                "score": 113
+              },
+              {
+                "id": "pPmhuHLkfFM",
+                "title": "Blue - One Last Time (Official Music Video)",
+                "channel": "Official Blue",
+                "duration": "3:24",
+                "score": 81
+              },
+              {
+                "id": "9E6J-9chKlU",
+                "title": "Blue - One Last Time (Official Audio)",
+                "channel": "Official Blue",
+                "duration": "3:19",
+                "score": 81
+              },
+              {
+                "id": "ftjEcrrf7r0",
+                "title": "U2 - One (Official Music Video)",
+                "channel": "U2",
+                "duration": "4:34",
+                "score": 53
+              }
+            ]
+          }
         },
         {
           "title": "My Love",
           "artist": "Westlife",
-          "id": ""
+          "id": "ulOb9gIGGd0",
+          "match": {
+            "title": "Westlife - My Love (Official Video)",
+            "channel": "Westlife ",
+            "duration": "4:14",
+            "score": 151,
+            "url": "https://youtu.be/ulOb9gIGGd0",
+            "alternatives": [
+              {
+                "id": "ddSnl5PXVJI",
+                "title": "Westlife - My Love (Official 4K Video)",
+                "channel": "Westlife ",
+                "duration": "4:14",
+                "score": 151
+              },
+              {
+                "id": "dmVtts8oPjA",
+                "title": "Westlife - Nothing's Going to Change My Love For You (Audio)",
+                "channel": "Westlife ",
+                "duration": "3:49",
+                "score": 151
+              },
+              {
+                "id": "ZnOAK04tJhc",
+                "title": "Westlife - I Lay My Love on You (Official Video)",
+                "channel": "Westlife ",
+                "duration": "3:29",
+                "score": 151
+              },
+              {
+                "id": "FBtxqxDRLys",
+                "title": "Westlife - I Lay My Love on You (Official HD Video)",
+                "channel": "Westlife ",
+                "duration": "3:29",
+                "score": 151
+              }
+            ]
+          }
         },
         {
           "title": "Summer Of '69",
@@ -395,17 +2729,128 @@
         {
           "title": "Lose Yourself",
           "artist": "Eminem",
-          "id": ""
+          "id": "fX3lHItkWqA",
+          "match": {
+            "title": "Eminem-Lose yourself (SOUTHPAW) 2017",
+            "channel": "MOTIVATION VIDEOSS",
+            "duration": "4:53",
+            "score": 151,
+            "url": "https://youtu.be/fX3lHItkWqA",
+            "alternatives": [
+              {
+                "id": "w6LbRZTqkik",
+                "title": "Lose Yourself | Eminem __ SOUTHPAW | Hope (motivational video )  #workhard #believeIn_yourself",
+                "channel": "ENERGY",
+                "duration": "4:53",
+                "score": 151
+              },
+              {
+                "id": "xFYQQPAOz7Y",
+                "title": "Eminem - Lose Yourself",
+                "channel": "EminemMusic",
+                "duration": "5:28",
+                "score": 141
+              },
+              {
+                "id": "Wj7lL6eDOqc",
+                "title": "Lose Yourself (From \"8 Mile\" Soundtrack)",
+                "channel": "EminemMusic",
+                "duration": "5:22",
+                "score": 141
+              },
+              {
+                "id": "_Yhyp-_hX2s",
+                "title": "Eminem - Lose Yourself [HD]",
+                "channel": "msvogue23",
+                "duration": "5:24",
+                "score": 141
+              }
+            ]
+          }
         },
         {
           "title": "In Da Club",
           "artist": "50 Cent",
-          "id": ""
+          "id": "rAEUXBYN6Fk",
+          "match": {
+            "title": "50 Cent - In Da Club But It's Only GO (Official Music Video)",
+            "channel": "Jiqzaw",
+            "duration": "3:41",
+            "score": 151,
+            "url": "https://music.youtube.com/watch?v=rAEUXBYN6Fk",
+            "alternatives": [
+              {
+                "id": "tok_V1KdLH8",
+                "title": "50 Cent - In Da Club (Music Video) (4K UHD) [Explicit]",
+                "channel": "4K Film Tributes ",
+                "duration": "4:08",
+                "score": 151
+              },
+              {
+                "id": "z8BYGMdHDQ0",
+                "title": "In Da Club",
+                "channel": "50 Cent",
+                "duration": "3:14",
+                "score": 141
+              },
+              {
+                "id": "F7aef7Wqu_A",
+                "title": "50 Cent - In Da Club (Dirty)",
+                "channel": "Georgety",
+                "duration": "3:41",
+                "score": 141
+              },
+              {
+                "id": "L9rJ0vwBisE",
+                "title": "50 Cent - In Da Club (HQ)",
+                "channel": "Wu Sound",
+                "duration": "3:17",
+                "score": 141
+              }
+            ]
+          }
         },
         {
           "title": "Temperature",
           "artist": "Sean Paul",
-          "id": ""
+          "id": "dW2MmuA1nI4",
+          "match": {
+            "title": "Sean Paul - Temperature (Official Video)",
+            "channel": "VP Records",
+            "duration": "3:37",
+            "score": 151,
+            "url": "https://youtu.be/dW2MmuA1nI4",
+            "alternatives": [
+              {
+                "id": "HJgImW5kBos",
+                "title": "Sean Paul - Temperature (Official Video) | Chipmunk Version",
+                "channel": "Chipmunked Music",
+                "duration": "3:37",
+                "score": 151
+              },
+              {
+                "id": "wTs-mef6kXY",
+                "title": "Sean Paul - Temperature (Audio)",
+                "channel": "Au Dio",
+                "duration": "3:45",
+                "score": 151
+              },
+              {
+                "id": "eUPFafWCq-M",
+                "title": "Sean Paul - Temperature (GAMEBOYS RMX) [Radio Edit] | Official Audio",
+                "channel": "Sean Paul and 2 more",
+                "duration": "2:30",
+                "score": 151
+              },
+              {
+                "id": "0JVHc1A_jFQ",
+                "title": "(REQUEST)(3D AUDIO!!!)Sean Paul-Temperature(USE HEADPHONES!!!)",
+                "channel": "3DAudiMakerBOOSTED",
+                "duration": "3:40",
+                "score": 151
+              }
+            ]
+          }
         }
       ]
     }

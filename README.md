@@ -235,3 +235,11 @@ cyber-cafe-2007/
 ```
 
 See `docs/PLAYLIST_AUTOMATION.md` for the detailed flow.
+
+
+## v1.3 UX update
+
+- Winamp is compact again; the large YouTube video is no longer embedded inside the Winamp body.
+- YouTube playback lives in a separate **Now Playing** window.
+- Pressing Play opens that window automatically. Closing/minimizing it pauses playback.
+- The separate visible player is intentional: YouTube's embedded-player requirements do not support hiding/obscuring the player while using it as an audio-only backend.

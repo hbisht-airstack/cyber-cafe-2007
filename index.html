@@ -60,8 +60,15 @@
         <input id="seek" class="seek" type="range" min="0" max="1000" value="0" />
         <div class="winamp-controls"><button id="prevTrack">⏮</button><button id="playTrack">▶</button><button id="pauseTrack">⏸</button><button id="stopTrack">■</button><button id="nextTrack">⏭</button><button id="shuffleTrack">SHUF</button></div>
         <div class="volume-row"><span>VOL</span><input id="volume" type="range" min="0" max="100" value="70"><span id="volumeLabel">70%</span></div>
-        <div class="youtube-frame-wrap"><div id="youtubePlayer"></div><div id="playerEmpty" class="player-empty"><b>No playlist connected</b><span>Playlist is loaded automatically from playlist.generated.js.</span></div></div>
-        <div class="playlist-bar"><span id="playlistStatus">PLAYLIST: NOT CONNECTED</span><button class="mini-btn" data-open="settingsWindow">SKINS</button></div>
+        <div class="playlist-bar"><span id="playlistStatus">CYBER CAFE RADIO</span><div class="playlist-actions"><button id="videoToggle" class="mini-btn">VIDEO</button><button class="mini-btn" data-open="settingsWindow">SKINS</button></div></div>
+      </div>
+    </section>
+
+    <section id="youtubeWindow" class="app-window youtube-window hidden" style="left:55%;top:18%">
+      <div class="titlebar drag-handle"><span>▶ NOW PLAYING</span><div><button class="window-btn minimize">_</button><button class="window-btn" data-close="youtubeWindow">×</button></div></div>
+      <div class="youtube-screen-shell">
+        <div class="youtube-frame-wrap"><div id="youtubePlayer"></div><div id="playerEmpty" class="player-empty"><b>Loading playlist…</b><span>Playback appears here when you press Play.</span></div></div>
+        <div class="youtube-screen-note">YouTube playback window</div>
       </div>
     </section>
 

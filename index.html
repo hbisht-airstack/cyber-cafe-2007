@@ -44,7 +44,7 @@
       <button class="desktop-icon" data-open="computerWindow"><span class="icon">🖥️</span><span>My Computer</span></button>
       <button class="desktop-icon" data-open="neroWindow"><span class="icon">🔥</span><span>Nero StartSmart</span></button>
       <button class="desktop-icon" data-open="csWindow"><span class="icon cs-icon">🔫</span><span>Counter-Strike 1.6</span></button>
-      <button class="desktop-icon" data-open="settingsWindow"><span class="icon">⚙️</span><span>Cafe Settings</span></button>
+      <button class="desktop-icon" data-open="settingsWindow"><span class="icon">🎨</span><span>Winamp Skins</span></button>
     </div>
 
     <div class="poster p1">NO FACEBOOK<br><small>Orkut only 😎</small></div>
@@ -56,12 +56,12 @@
     <section id="winampWindow" class="app-window winamp-window hidden" style="left:18%;top:11%">
       <div class="titlebar drag-handle"><span>⚡ WINAMP 5.07 — CYBER CAFE MIX</span><div><button class="window-btn minimize">_</button><button class="window-btn" data-close="winampWindow">×</button></div></div>
       <div class="winamp-shell">
-        <div class="winamp-display"><div class="visualizer"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div><div><div id="trackCounter" class="counter">00:00</div><div id="trackTitle" class="track-title">CONNECT A PLAYLIST</div><div id="trackMeta" class="track-meta">YouTube player ready</div></div></div>
+        <div class="winamp-display"><div class="visualizer"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div><div><div id="trackCounter" class="counter">00:00</div><div class="track-title-viewport"><div id="trackTitle" class="track-title">CONNECT A PLAYLIST</div></div><div id="trackMeta" class="track-meta">YouTube player ready</div></div></div>
         <input id="seek" class="seek" type="range" min="0" max="1000" value="0" />
         <div class="winamp-controls"><button id="prevTrack">⏮</button><button id="playTrack">▶</button><button id="pauseTrack">⏸</button><button id="stopTrack">■</button><button id="nextTrack">⏭</button><button id="shuffleTrack">SHUF</button></div>
         <div class="volume-row"><span>VOL</span><input id="volume" type="range" min="0" max="100" value="70"><span id="volumeLabel">70%</span></div>
-        <div class="youtube-frame-wrap"><div id="youtubePlayer"></div><div id="playerEmpty" class="player-empty"><b>No playlist connected</b><span>Open Cafe Settings and paste your playlist.</span></div></div>
-        <div class="playlist-bar"><span id="playlistStatus">PLAYLIST: NOT CONNECTED</span><button class="mini-btn" data-open="settingsWindow">SETTINGS</button></div>
+        <div class="youtube-frame-wrap"><div id="youtubePlayer"></div><div id="playerEmpty" class="player-empty"><b>No playlist connected</b><span>Playlist is loaded automatically from playlist.generated.js.</span></div></div>
+        <div class="playlist-bar"><span id="playlistStatus">PLAYLIST: NOT CONNECTED</span><button class="mini-btn" data-open="settingsWindow">SKINS</button></div>
       </div>
     </section>
 
@@ -77,7 +77,47 @@
 
     <section id="csWindow" class="app-window cs-window hidden" style="left:20%;top:8%"><div class="titlebar drag-handle cs-title"><span>Counter-Strike 1.6</span><button class="window-btn" data-close="csWindow">×</button></div><div class="cs-screen"><div class="cs-brand">COUNTER<br><span>STRIKE</span><small>1.6</small></div><div id="csConsole" class="cs-console"><p>Connecting to 192.168.1.7:27015...</p><p>Connection accepted by local cyber cafe server.</p><p>Map: de_dust2</p></div><div class="cs-buttons"><button id="csJoin">JOIN GAME</button><button id="csFire">FIRE IN THE HOLE!</button><button id="csHeadshot">HEADSHOT</button></div></div></section>
 
-    <section id="settingsWindow" class="app-window settings-window hidden" style="left:36%;top:12%"><div class="titlebar drag-handle"><span>⚙️ Cyber Cafe Control Panel</span><button class="window-btn" data-close="settingsWindow">×</button></div><div class="settings-body"><h3>Music</h3><label>YouTube / YouTube Music playlist URL or ID</label><input id="playlistInput" class="classic-input" placeholder="https://music.youtube.com/playlist?list=PL..."><div class="settings-actions"><button id="savePlaylist" class="classic-btn primary">Save & load</button><button id="clearPlaylist" class="classic-btn">Clear</button></div><p class="hint">For the automated flow, <code>npm run sync</code> writes <code>playlist.generated.js</code> for you. A playlist pasted here is browser-only and stored in localStorage.</p><hr><h3>Cafe session</h3><label>Hourly rate (₹)<input id="rateInput" class="classic-input short" type="number" min="1" value="20"></label><label>Starting minutes<input id="minutesInput" class="classic-input short" type="number" min="10" value="60"></label><button id="restartSession" class="classic-btn">Restart session</button><hr><h3>Ambience</h3><label><input id="eventToggle" type="checkbox" checked> Random cyber cafe events</label><label><input id="soundToggle" type="checkbox" checked> Retro UI beeps</label><label><input id="crtToggle" type="checkbox" checked> CRT scanlines</label><hr><div class="about-box"><b>CYBER CAFE 2007 v1.0</b><br>Slow internet. Fast friendships. ₹20/hour computing.</div></div></section>
+    <section id="settingsWindow" class="app-window settings-window hidden" style="left:36%;top:12%">
+      <div class="titlebar drag-handle"><span>🎨 Winamp Skins & Effects</span><button class="window-btn" data-close="settingsWindow">×</button></div>
+      <div class="settings-body">
+        <h3>Choose a Winamp skin</h3>
+        <p class="skin-intro">Same playlist, different 2007 energy. Your choice is saved in this browser.</p>
+        <div class="skin-grid" id="skinGrid">
+          <button class="skin-card" data-skin-choice="classic">
+            <span class="skin-preview skin-preview-classic"><i></i><b>WINAMP</b><em>00:00</em></span>
+            <strong>Classic Green</strong><small>Default cyber cafe</small>
+          </button>
+          <button class="skin-card" data-skin-choice="ocean">
+            <span class="skin-preview skin-preview-ocean"><i></i><b>WINAMP</b><em>00:00</em></span>
+            <strong>Ocean Blue</strong><small>Cool XP night</small>
+          </button>
+          <button class="skin-card" data-skin-choice="fire">
+            <span class="skin-preview skin-preview-fire"><i></i><b>WINAMP</b><em>00:00</em></span>
+            <strong>Firestorm</strong><small>Burned CD energy</small>
+          </button>
+          <button class="skin-card" data-skin-choice="purple">
+            <span class="skin-preview skin-preview-purple"><i></i><b>WINAMP</b><em>00:00</em></span>
+            <strong>Purple Haze</strong><small>Yahoo Messenger mood</small>
+          </button>
+          <button class="skin-card" data-skin-choice="silver">
+            <span class="skin-preview skin-preview-silver"><i></i><b>WINAMP</b><em>00:00</em></span>
+            <strong>Silver XP</strong><small>Computer lab classic</small>
+          </button>
+          <button class="skin-card" data-skin-choice="matrix">
+            <span class="skin-preview skin-preview-matrix"><i></i><b>WINAMP</b><em>00:00</em></span>
+            <strong>Matrix</strong><small>LAN party mode</small>
+          </button>
+        </div>
+        <div class="skin-current">ACTIVE SKIN: <b id="activeSkinName">Classic Green</b></div>
+        <hr>
+        <h3>Ambience</h3>
+        <label><input id="eventToggle" type="checkbox" checked> Random cyber cafe events</label>
+        <label><input id="soundToggle" type="checkbox" checked> Retro UI beeps</label>
+        <label><input id="crtToggle" type="checkbox" checked> CRT scanlines</label>
+        <hr>
+        <div class="about-box"><b>CYBER CAFE 2007 v1.2</b><br>Slow internet. Fast friendships. Winamp forever.</div>
+      </div>
+    </section>
 
     <div id="toast" class="toast"></div>
     <div class="taskbar"><button id="startBtn" class="start-btn">▦ start</button><div id="taskButtons" class="task-buttons"></div><div class="tray">📶 🔊 <b id="taskClock">2:17 PM</b></div></div>

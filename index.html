@@ -56,19 +56,19 @@
     <section id="winampWindow" class="app-window winamp-window hidden" style="left:18%;top:11%">
       <div class="titlebar drag-handle"><span>⚡ WINAMP 5.07 — CYBER CAFE MIX</span><div><button class="window-btn minimize">_</button><button class="window-btn" data-close="winampWindow">×</button></div></div>
       <div class="winamp-shell">
-        <div class="winamp-display"><div class="visualizer"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div><div><div id="trackCounter" class="counter">00:00</div><div class="track-title-viewport"><div id="trackTitle" class="track-title">CONNECT A PLAYLIST</div></div><div id="trackMeta" class="track-meta">YouTube player ready</div></div></div>
+        <div class="winamp-display">
+          <div class="art-tile"><div id="youtubePlayer"></div><div id="playerEmpty" class="player-empty"><b>Loading playlist…</b><span>Press ▶ to start the cafe radio.</span></div></div>
+          <div class="display-info">
+            <div id="trackCounter" class="counter">00:00</div>
+            <div class="track-title-viewport"><div id="trackTitle" class="track-title">CONNECT A PLAYLIST</div></div>
+            <div id="trackMeta" class="track-meta">YouTube player ready</div>
+            <div class="visualizer"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
+          </div>
+        </div>
         <input id="seek" class="seek" type="range" min="0" max="1000" value="0" />
         <div class="winamp-controls"><button id="prevTrack">⏮</button><button id="playTrack">▶</button><button id="pauseTrack">⏸</button><button id="stopTrack">■</button><button id="nextTrack">⏭</button><button id="shuffleTrack">SHUF</button></div>
         <div class="volume-row"><span>VOL</span><input id="volume" type="range" min="0" max="100" value="70"><span id="volumeLabel">70%</span></div>
         <div class="playlist-bar"><span id="playlistStatus">CYBER CAFE RADIO</span><div class="playlist-actions"><button id="videoToggle" class="mini-btn">VIDEO</button><button class="mini-btn" data-open="settingsWindow">SKINS</button></div></div>
-      </div>
-    </section>
-
-    <section id="youtubeWindow" class="app-window youtube-window hidden" style="left:55%;top:18%">
-      <div class="titlebar drag-handle"><span>▶ NOW PLAYING</span><div><button class="window-btn minimize">_</button><button class="window-btn" data-close="youtubeWindow">×</button></div></div>
-      <div class="youtube-screen-shell">
-        <div class="youtube-frame-wrap"><div id="youtubePlayer"></div><div id="playerEmpty" class="player-empty"><b>Loading playlist…</b><span>Playback appears here when you press Play.</span></div></div>
-        <div class="youtube-screen-note">YouTube playback window</div>
       </div>
     </section>
 

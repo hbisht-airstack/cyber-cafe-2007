@@ -239,7 +239,7 @@ See `docs/PLAYLIST_AUTOMATION.md` for the detailed flow.
 
 ## v1.4 UX update
 
-- Playback now sits inside the Winamp window as a 200x200 album-art tile next to the track readout, so the site feels like a music player instead of youtube.com.
-- The `VIDEO` button expands that tile to a widescreen view and back to `MINI`.
+- The Winamp display now shows real cover art: a 200x200 tile filled with the current video's thumbnail from `i.ytimg.com` (`maxresdefault`, falling back to `mqdefault`), so the site feels like a music player instead of youtube.com.
+- The player itself is a real 220x124 iframe on `#youtubeStage`, parked behind the desktop at 1% opacity. The `VIDEO` button brings it forward as a 320x180 panel and `HIDE` sends it back.
 - Closing or minimizing Winamp pauses playback.
 - The tile stays visible on purpose: YouTube's embedded-player requirements do not allow hiding or obscuring the player while using it as an audio-only backend. YouTube Music itself has no embeddable player, but a YouTube Music playlist and a YouTube playlist share the same ID, so this plays exactly the same tracks.

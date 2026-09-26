@@ -1,0 +1,237 @@
+# Cyber Cafe 2007
+
+A deployable Indian cyber-cafe nostalgia website with a Windows XP-ish desktop, a Winamp-style YouTube player, and an automated playlist-management pipeline.
+
+## Website experience
+
+- Windows XP-ish boot screen + draggable windows
+- Winamp-style YouTube playlist player
+- Play / pause / previous / next / shuffle / volume / seek
+- ₹20/hour timer + running bill + **Bhaiya +10 min**
+- Internet Explorer + old-Google gag
+- Orkut scrapbook
+- Yahoo! Messenger + BUZZ
+- My Computer with old drives / pen drive
+- Nero CD-burning simulation
+- Counter-Strike 1.6 LAN simulation
+- Random cyber-cafe events
+- CRT scanlines + retro UI beeps
+- Responsive mobile layout
+
+## Playlist automation — new in v1.1
+
+The repo now contains the complete music workflow:
+
+```text
+tracks.json
+     ↓
+npm run resolve
+     ↓
+Smart public YouTube search resolver
+     ↓
+npm run verify
+     ↓
+verification-report.html
+     ↓
+npm run sync
+     ↓
+Cyber Cafe 2007 playlist in your YouTube account
+     ↓
+playlist.generated.js
+     ↓
+Website automatically uses that playlist
+```
+
+`tracks.json` already contains the starter Cyber Cafe catalogue, divided into:
+
+- **Cyber Cafe Classics**
+- **Downloaded Songs Folder**
+- **Counter-Strike 1.6 / English MP3s**
+
+## Quick start
+
+### 1. Install Node dependencies
+
+Node 18+ is required.
+
+```bash
+npm install
+```
+
+### 2. Resolve YouTube IDs
+
+```bash
+npm run resolve
+```
+
+The resolver searches the public YouTube results page and ranks multiple candidates instead of blindly taking the first video. It prefers title/artist/film matches and official music channels, while penalizing covers, slowed/reverb, karaoke, reaction, 8D, mashups and jukeboxes.
+
+### 3. Review the selected recordings
+
+```bash
+npm run verify
+```
+
+Open:
+
+```text
+verification-report.html
+```
+
+The report has direct links for every chosen video. Yellow rows have a low resolver score and deserve manual review.
+
+### 4. Configure Google OAuth once
+
+You need OAuth only because creating/editing a playlist writes to **your** YouTube account.
+
+In Google Cloud:
+
+1. Create/select a project.
+2. Enable **YouTube Data API v3**.
+3. Configure the OAuth consent screen.
+4. Create a **Desktop app** OAuth client.
+5. Download the credentials.
+6. Save them in this repo as:
+
+```text
+client_secret.json
+```
+
+Do **not** commit this file. `.gitignore` already excludes it.
+
+### 5. Create / sync the playlist
+
+```bash
+npm run sync
+```
+
+The first run opens a Google authorization page. After you authorize your YouTube account, the script:
+
+- finds an existing `Cyber Cafe 2007` playlist, or creates one as **Unlisted**
+- loads its current video IDs
+- skips tracks already present
+- adds only missing tracks
+- stores the playlist ID in `tracks.json`
+- writes the ID to `playlist.generated.js`
+
+The website already loads `playlist.generated.js`, so after the sync it automatically points at your playlist.
+
+## One command after initial setup
+
+```bash
+npm run playlist
+```
+
+That runs:
+
+```text
+resolve → verify → sync
+```
+
+For your very first playlist, I recommend running `resolve`, opening the verification report, and only then running `sync` so you can correct any cover/remix/jukebox result first.
+
+## Add songs later
+
+Add another entry in `tracks.json`:
+
+```json
+{
+  "title": "Song Name",
+  "artist": "Artist Name",
+  "film": "Film or Album",
+  "id": ""
+}
+```
+
+Then run:
+
+```bash
+npm run playlist
+```
+
+Existing IDs are not re-resolved and videos already present in the YouTube playlist are skipped.
+
+## Useful commands
+
+```bash
+npm run resolve
+npm run resolve:dry
+npm run verify
+npm run sync
+npm run playlist
+```
+
+Force the resolver to reconsider every existing ID:
+
+```bash
+node scripts/resolve-ids.mjs tracks.json --force
+```
+
+## Run the website locally
+
+The YouTube embedded player works best from an HTTP origin rather than by double-clicking `index.html`:
+
+```bash
+python3 -m http.server 8080
+```
+
+Open:
+
+```text
+http://localhost:8080
+```
+
+## Deploy to Vercel
+
+No website build step is required.
+
+1. Push this folder to GitHub.
+2. Import the repository in Vercel.
+3. Framework preset: **Other**.
+4. Build command: blank.
+5. Output directory: `.`
+6. Deploy.
+
+The playlist scripts are local/admin tooling. Vercel serves the static website; it does not need your OAuth credentials.
+
+## Security
+
+Never put any of these in the website or GitHub repository:
+
+- Google password
+- YouTube cookies
+- Premium credentials
+- `client_secret.json`
+- `.youtube-token.json`
+
+The deployed site receives only the YouTube playlist ID and plays through the official YouTube IFrame Player API.
+
+## Ads / Premium
+
+The project does not remove or block YouTube ads. Embedded-playback ads are controlled by YouTube and the viewer's account/content context.
+
+## Project structure
+
+```text
+cyber-cafe-2007/
+├── index.html
+├── styles.css
+├── app.js
+├── config.js
+├── playlist.generated.js      # generated by npm run sync
+├── tracks.json                # master track catalogue
+├── package.json
+├── vercel.json
+├── .gitignore
+├── scripts/
+│   ├── resolve-ids.mjs        # smart ID resolver
+│   ├── verify-ids.mjs         # verification HTML report
+│   └── sync-playlist.mjs      # official YouTube API + OAuth sync
+├── assets/
+│   └── favicon.svg
+└── docs/
+    ├── CUSTOMIZE.md
+    └── PLAYLIST_AUTOMATION.md
+```
+
+See `docs/PLAYLIST_AUTOMATION.md` for the detailed flow.

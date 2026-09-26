@@ -1,0 +1,10 @@
+node_modules/
+client_secret.json
+.youtube-token.json
+.DS_Store
+verification-report.html
+npm-debug.log*
+token.json
+tokens.json
+.env
+.env.*

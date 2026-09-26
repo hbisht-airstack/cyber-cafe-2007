@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#245edb" />
+  <meta name="description" content="Cyber Cafe 2007 — Indian internet cafe nostalgia powered by a YouTube playlist." />
+  <title>Cyber Cafe 2007</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body class="crt">
+  <div id="boot" class="boot-screen">
+    <div class="boot-box">
+      <div class="boot-brand"><span>▦</span><div><strong>Cyber Cafe</strong><small>professional</small></div></div>
+      <p>Loading Windows XP-ish...</p><div class="boot-progress"><i></i></div>
+      <button id="skipBoot" class="classic-btn">Skip</button>
+    </div>
+  </div>
+
+  <div id="setupModal" class="modal hidden">
+    <div class="dialog setup-dialog">
+      <div class="titlebar"><span>🎵 First-time music setup</span><button class="window-btn" data-close="setupModal">×</button></div>
+      <div class="dialog-body">
+        <div class="setup-art">♫</div>
+        <div><h2>Connect your Cyber Cafe playlist</h2>
+          <p>Paste a YouTube or YouTube Music <b>playlist URL</b>, or just its playlist ID. Playback uses YouTube's official embedded player.</p>
+          <input id="setupPlaylist" class="classic-input" placeholder="https://music.youtube.com/playlist?list=PL..." />
+          <div class="hint">Recommended: create an <b>Unlisted</b> playlist named “Cyber Cafe 2007”. No Google password, cookie or token is stored here.</div>
+          <div class="dialog-actions"><button id="saveSetup" class="classic-btn primary">Connect playlist</button><button id="demoSetup" class="classic-btn">Explore without music</button></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="desktop">
+    <div class="cafe-strip"><div><b>CYBER CAFE 2007</b><span>Internet • Printout • CD Writing • Scanning • Online Form</span></div><div class="rate-card">₹20 / HOUR</div></div>
+
+    <div class="desk-icons">
+      <button class="desktop-icon" data-open="winampWindow"><span class="icon winamp-icon">⚡</span><span>WINAMP</span></button>
+      <button class="desktop-icon" data-open="ieWindow"><span class="icon ie-icon">e</span><span>Internet Explorer</span></button>
+      <button class="desktop-icon" data-open="orkutWindow"><span class="icon orkut-icon">O</span><span>orkut</span></button>
+      <button class="desktop-icon" data-open="yahooWindow"><span class="icon yahoo-icon">Y!</span><span>Yahoo! Messenger</span></button>
+      <button class="desktop-icon" data-open="computerWindow"><span class="icon">🖥️</span><span>My Computer</span></button>
+      <button class="desktop-icon" data-open="neroWindow"><span class="icon">🔥</span><span>Nero StartSmart</span></button>
+      <button class="desktop-icon" data-open="csWindow"><span class="icon cs-icon">🔫</span><span>Counter-Strike 1.6</span></button>
+      <button class="desktop-icon" data-open="settingsWindow"><span class="icon">⚙️</span><span>Cafe Settings</span></button>
+    </div>
+
+    <div class="poster p1">NO FACEBOOK<br><small>Orkut only 😎</small></div>
+    <div class="poster p2">PRINT OUT<br><strong>₹5 / PAGE</strong></div>
+    <div class="poster p3">Bhaiya,<br>10 minute aur?</div>
+
+    <div class="cafe-meter"><div class="meter-row"><span>PC #07</span><b id="sessionStatus">ONLINE</b></div><div class="meter-time" id="remainingTime">01:00:00</div><div class="meter-row"><span>Bill</span><strong id="bill">₹0.00</strong></div><button id="addTen" class="meter-button">Bhaiya +10 min</button></div>
+
+    <section id="winampWindow" class="app-window winamp-window hidden" style="left:18%;top:11%">
+      <div class="titlebar drag-handle"><span>⚡ WINAMP 5.07 — CYBER CAFE MIX</span><div><button class="window-btn minimize">_</button><button class="window-btn" data-close="winampWindow">×</button></div></div>
+      <div class="winamp-shell">
+        <div class="winamp-display"><div class="visualizer"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div><div><div id="trackCounter" class="counter">00:00</div><div id="trackTitle" class="track-title">CONNECT A PLAYLIST</div><div id="trackMeta" class="track-meta">YouTube player ready</div></div></div>
+        <input id="seek" class="seek" type="range" min="0" max="1000" value="0" />
+        <div class="winamp-controls"><button id="prevTrack">⏮</button><button id="playTrack">▶</button><button id="pauseTrack">⏸</button><button id="stopTrack">■</button><button id="nextTrack">⏭</button><button id="shuffleTrack">SHUF</button></div>
+        <div class="volume-row"><span>VOL</span><input id="volume" type="range" min="0" max="100" value="70"><span id="volumeLabel">70%</span></div>
+        <div class="youtube-frame-wrap"><div id="youtubePlayer"></div><div id="playerEmpty" class="player-empty"><b>No playlist connected</b><span>Open Cafe Settings and paste your playlist.</span></div></div>
+        <div class="playlist-bar"><span id="playlistStatus">PLAYLIST: NOT CONNECTED</span><button class="mini-btn" data-open="settingsWindow">SETTINGS</button></div>
+      </div>
+    </section>
+
+    <section id="ieWindow" class="app-window ie-window hidden" style="left:25%;top:14%"><div class="titlebar drag-handle"><span>🌐 Cyber Cafe Internet - Microsoft Internet Explorer</span><button class="window-btn" data-close="ieWindow">×</button></div><div class="ie-toolbar"><button>← Back</button><button>→</button><button>⟳</button><span>Address</span><input value="http://www.google.co.in/" readonly><button id="ieGo">Go</button></div><div class="ie-page"><div class="google-old"><div class="google-logo"><span>G</span><span>o</span><span>o</span><span>g</span><span>l</span><span>e</span></div><small>India</small><input id="fakeSearch" class="google-search"><div><button id="googleSearchBtn" class="classic-btn">Google Search</button> <button class="classic-btn">I'm Feeling Lucky</button></div><p>Web &nbsp; Images &nbsp; Groups &nbsp; News &nbsp; Orkut</p></div><div id="searchResult" class="search-result hidden"><b>Internet is slow today.</b><p>Bhaiya is restarting the router. Please try after 2 minutes.</p></div></div><div class="statusbar">Done | Internet zone</div></section>
+
+    <section id="orkutWindow" class="app-window orkut-window hidden" style="left:33%;top:9%"><div class="titlebar drag-handle pink"><span>orkut - home</span><button class="window-btn" data-close="orkutWindow">×</button></div><div class="orkut-head"><b>orkut</b><span>home | profile | scrapbook | communities | logout</span></div><div class="orkut-grid"><aside><div class="avatar">😎</div><b>Cyber Cafe User</b><p>India</p><hr><p>scraps: <b>307</b></p><p>friends: <b>128</b></p><p>fans: <b>9</b></p></aside><main><h3>my scrapbook</h3><div id="scraps"><div class="scrap"><b>Rahul:</b> frandship karoge??? <small>11:42 pm</small></div><div class="scrap"><b>Neha:</b> nice dp :) <small>10:17 pm</small></div><div class="scrap"><b>Rohit:</b> kal CS? same cafe 6pm <small>9:05 pm</small></div></div><div class="scrap-compose"><input id="scrapInput" placeholder="write a scrap..." maxlength="90"><button id="postScrap" class="classic-btn">post scrap</button></div></main></div></section>
+
+    <section id="yahooWindow" class="app-window yahoo-window hidden" style="left:41%;top:17%"><div class="titlebar drag-handle purple"><span>Y! Yahoo! Messenger</span><button class="window-btn" data-close="yahooWindow">×</button></div><div class="ym-profile"><span>🙂</span><div><b>cyber_cafe_07</b><br><small>Available</small></div></div><div class="buddy-list"><b>Friends (4/19 online)</b><button class="buddy online">● coolboy_2007</button><button class="buddy online">● angel_priya</button><button class="buddy online">● rockstar_rahul</button><button class="buddy online">● devil_may_cry</button><button class="buddy">○ cricket_fan_91</button></div><div class="buzz-area"><button id="buzzBtn" class="buzz">BUZZ!!!</button><span id="buzzText">Double click a friend to chat.</span></div></section>
+
+    <section id="computerWindow" class="app-window computer-window hidden" style="left:12%;top:22%"><div class="titlebar drag-handle"><span>🖥️ My Computer</span><button class="window-btn" data-close="computerWindow">×</button></div><div class="folder-toolbar">File &nbsp; Edit &nbsp; View &nbsp; Favorites &nbsp; Tools &nbsp; Help</div><div class="computer-body"><h4>Files Stored on This Computer</h4><div class="drive-grid"><button class="drive">💾 <span>Local Disk (C:)</span><small>8.3 GB free</small></button><button class="drive">💿 <span>DVD-RW Drive (D:)</span><small>Blank CD</small></button><button class="drive">🔌 <span>NO_NAME (E:)</span><small>256 MB pen drive</small></button><button class="drive">📁 <span>Downloaded Songs</span><small>47 items</small></button></div><div class="folder-warning">⚠️ Do not save files on Desktop. Cafe owner not responsible for deleted data.</div></div></section>
+
+    <section id="neroWindow" class="app-window nero-window hidden" style="left:28%;top:20%"><div class="titlebar drag-handle orange"><span>🔥 Nero StartSmart Essentials</span><button class="window-btn" data-close="neroWindow">×</button></div><div class="nero-body"><div class="disc">💿</div><h3>Burn Audio CD</h3><p>Compilation: <b>College Mix Final FINAL</b></p><div class="burn-progress"><i id="burnBar"></i></div><div id="burnStatus">Ready to burn 12 tracks (68:17)</div><button id="burnCd" class="classic-btn primary">🔥 BURN</button></div></section>
+
+    <section id="csWindow" class="app-window cs-window hidden" style="left:20%;top:8%"><div class="titlebar drag-handle cs-title"><span>Counter-Strike 1.6</span><button class="window-btn" data-close="csWindow">×</button></div><div class="cs-screen"><div class="cs-brand">COUNTER<br><span>STRIKE</span><small>1.6</small></div><div id="csConsole" class="cs-console"><p>Connecting to 192.168.1.7:27015...</p><p>Connection accepted by local cyber cafe server.</p><p>Map: de_dust2</p></div><div class="cs-buttons"><button id="csJoin">JOIN GAME</button><button id="csFire">FIRE IN THE HOLE!</button><button id="csHeadshot">HEADSHOT</button></div></div></section>
+
+    <section id="settingsWindow" class="app-window settings-window hidden" style="left:36%;top:12%"><div class="titlebar drag-handle"><span>⚙️ Cyber Cafe Control Panel</span><button class="window-btn" data-close="settingsWindow">×</button></div><div class="settings-body"><h3>Music</h3><label>YouTube / YouTube Music playlist URL or ID</label><input id="playlistInput" class="classic-input" placeholder="https://music.youtube.com/playlist?list=PL..."><div class="settings-actions"><button id="savePlaylist" class="classic-btn primary">Save & load</button><button id="clearPlaylist" class="classic-btn">Clear</button></div><p class="hint">For the automated flow, <code>npm run sync</code> writes <code>playlist.generated.js</code> for you. A playlist pasted here is browser-only and stored in localStorage.</p><hr><h3>Cafe session</h3><label>Hourly rate (₹)<input id="rateInput" class="classic-input short" type="number" min="1" value="20"></label><label>Starting minutes<input id="minutesInput" class="classic-input short" type="number" min="10" value="60"></label><button id="restartSession" class="classic-btn">Restart session</button><hr><h3>Ambience</h3><label><input id="eventToggle" type="checkbox" checked> Random cyber cafe events</label><label><input id="soundToggle" type="checkbox" checked> Retro UI beeps</label><label><input id="crtToggle" type="checkbox" checked> CRT scanlines</label><hr><div class="about-box"><b>CYBER CAFE 2007 v1.0</b><br>Slow internet. Fast friendships. ₹20/hour computing.</div></div></section>
+
+    <div id="toast" class="toast"></div>
+    <div class="taskbar"><button id="startBtn" class="start-btn">▦ start</button><div id="taskButtons" class="task-buttons"></div><div class="tray">📶 🔊 <b id="taskClock">2:17 PM</b></div></div>
+    <div id="startMenu" class="start-menu hidden"><div class="start-user">😎 <b>Cyber Cafe User</b></div><div class="start-columns"><div><button data-open="ieWindow">🌐 Internet</button><button data-open="winampWindow">⚡ Winamp</button><button data-open="yahooWindow">Y! Messenger</button><button data-open="orkutWindow">💗 Orkut</button></div><div><button data-open="computerWindow">🖥️ My Computer</button><button data-open="settingsWindow">⚙️ Control Panel</button><button id="logOff">🔑 Log Off</button><button id="turnOff">⏻ Turn Off Computer</button></div></div></div>
+  </div>
+  <script src="playlist.generated.js"></script><script src="config.js"></script><script src="app.js"></script><script src="https://www.youtube.com/iframe_api"></script>
+</body>
+</html>

@@ -1,0 +1,21 @@
+{
+  "name": "cyber-cafe-2007",
+  "version": "1.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Cyber Cafe 2007 nostalgia site + YouTube playlist resolver/sync tooling",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "resolve": "node scripts/resolve-ids.mjs tracks.json",
+    "resolve:dry": "node scripts/resolve-ids.mjs tracks.json --dry",
+    "verify": "node scripts/verify-ids.mjs tracks.json",
+    "sync": "node scripts/sync-playlist.mjs tracks.json",
+    "playlist": "node scripts/resolve-ids.mjs tracks.json && node scripts/verify-ids.mjs tracks.json && node scripts/sync-playlist.mjs tracks.json"
+  },
+  "dependencies": {
+    "@google-cloud/local-auth": "^3.0.1",
+    "googleapis": "^182.0.0"
+  }
+}
